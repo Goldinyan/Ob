@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Terms Physik"
             }
+          },
+          {
+            "id": "e953da80e8ab7b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim Keybinds.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vim Keybinds"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "e953da80e8ab7b38",
   "lastOpenFiles": [
+    "Vim Keybinds.md",
     "300 School/Physik/Terms Physik.md",
     "300 School/Physik/Gleichförmige Bewegungen.md",
     "Gleichmäßige beschleunigte Bewegung.md",
@@ -255,7 +280,6 @@
     "Java Data Types.md",
     "500 Philosophie/Quotes/Quotes Overall.md",
     "200 CS/Java 2D-Game/Main.java.md",
-    "600 Debate/Politics/Die Art des Verbietens.md",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
