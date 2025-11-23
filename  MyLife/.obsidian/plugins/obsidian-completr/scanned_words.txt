@@ -30,6 +30,8 @@ Proof
 Playground
 Pafolios
 Pageflows
+Politische
+Portugal
 IHDR
 IDATx
 IC
@@ -66,6 +68,10 @@ Inspiration
 Icons
 Illustrations
 INSPIRATION
+Indien
+Ideologische
+Indigene
+Ideologie
 rD
 rVS
 rZ
@@ -121,6 +127,8 @@ raw
 reactbits
 reak
 recorded
+religiöse
+rechtfertigt
 Vs
 VO
 VJ
@@ -144,6 +152,10 @@ Verständnis
 Verbindung
 VIEWER
 VisBug
+Verteidiger
+Völker
+Verflechtungen
+Veränderungen
 KPgM
 KO
 Krbm
@@ -168,6 +180,9 @@ König
 Kontext
 Königspaares
 Kupfer
+Konkurrenz
+Kolonialismus
+Kolonialreiche
 EG
 ER
 Ek
@@ -216,6 +231,10 @@ Eine
 Erde
 Extensions
 Exapmles
+Einheit
+Einflussgebiete
+Eurozentrische
+Europäer
 cj
 cK
 cz
@@ -306,6 +325,8 @@ portfolios
 product
 products
 porjects
+politische
+primitiv
 kF
 kXl
 kXlm
@@ -345,6 +366,7 @@ könne
 koloniale
 kolonialen
 konstant
+kurz
 Zw
 Zy
 ZL
@@ -362,6 +384,8 @@ Zudem
 Ziele
 Zusammenhang
 Zeit
+Ziel
+Zugang
 Nn
 Nk
 No
@@ -387,6 +411,7 @@ Notes
 Nukleophilen
 Nachweise
 Niederschlag
+Nach
 uR
 uN
 ug
@@ -423,6 +448,7 @@ utils
 ux
 usablity
 user
+unter
 WGN
 Wm
 Wl
@@ -464,6 +490,7 @@ Websites
 Wappalyzer
 Website
 Walk
+Wirtschaftliche
 Cbc
 Cr
 Ck
@@ -498,6 +525,10 @@ CodePen
 CSS
 Commerce
 Cream
+Christliche
+Christentums
+Chancen
+Casas
 LI
 LF
 LLN
@@ -518,6 +549,8 @@ Lotti
 Learn
 Logo
 Long
+Lage
+Legitimation
 qV
 qT
 qH
@@ -613,6 +646,9 @@ Social
 SaaSpo
 SaaS
 Serie
+Seefahrt
+Selbstverständnis
+Suche
 zS
 zX
 zR
@@ -628,6 +664,8 @@ zurück
 zur
 zunächst
 zum
+zurückerobert
+zugeschnitten
 OU
 OL
 Oq
@@ -650,6 +688,8 @@ Offenheit
 OH
 Oxidationen
 Omagic
+Osmanischen
+Original
 am
 ad
 afj
@@ -712,6 +752,8 @@ allgemeine
 angegriffen
 abspaltbar
 analysis
+abgeschlossen
+aktiv
 JV
 Jv
 JN
@@ -760,6 +802,8 @@ FONTS
 Fontshare
 Fonts
 Footer
+Frühe
+Formulierungsbausteine
 vHwc
 vE
 vA
@@ -852,6 +896,10 @@ Adds
 Aloows
 Allows
 APIs
+Aufstieg
+Afrika
+Ausbreitung
+Asien
 MV
 MM
 Ms
@@ -895,6 +943,7 @@ Minimal
 Mockups
 Mockuups
 Maneken
+Muster
 hv
 hz
 have
@@ -925,6 +974,7 @@ hervor
 hervorhebt
 homologen
 heißt
+hat
 lI
 lt
 ls
@@ -976,6 +1026,8 @@ layout
 languages
 libary
 logo
+letzten
+las
 bM
 bS
 bs
@@ -1020,6 +1072,8 @@ bool
 browser
 branding
 bilder
+beginnt
+bewusst
 mm
 ms
 mO
@@ -1065,6 +1119,9 @@ modification
 mock
 margins
 me
+muslimischen
+mithalten
+mögliche
 do
 dK
 dQ
@@ -1130,6 +1187,8 @@ disable
 displays
 debug
 docs
+direkter
+darzustellen
 QS
 Qn
 QGu
@@ -1143,6 +1202,8 @@ QNqQ
 Quotes
 Quellenanalyse
 Quelle
+Quellen
+Quellenkritik
 yM
 yn
 yYv
@@ -1281,6 +1342,8 @@ systems
 standout
 store
 stack
+starkes
+sehen
 XZ
 Xs
 XI
@@ -1344,6 +1407,7 @@ wasserlöslich
 web
 websites
 walktroughs
+wider
 gv
 gu
 gP
@@ -1379,6 +1443,7 @@ geprägt
 größeren
 gleichförmig
 gallery
+globalen
 nf
 nnvi
 nC
@@ -1414,6 +1479,8 @@ neuen
 natürlich
 neutrale
 neue
+neu
+neuer
 jt
 jW
 jz
@@ -1502,6 +1569,11 @@ Google
 Godly
 Gallery
 Games
+Granada
+Großmacht
+Glaubens
+Gewürzen
+Gebiete
 fW
 fvB
 fnrA
@@ -1572,6 +1644,8 @@ Hero
 Headlines
 Hunger
 HTTYD
+Herrschaften
+Handelswege
 xe
 xJ
 xys
@@ -1653,6 +1727,7 @@ Usability
 Uncut
 Unblast
 Unsplash
+Umgehung
 DC
 DK
 DN
@@ -1692,6 +1767,7 @@ Developer
 Detects
 Design
 DevDocs
+Dimension
 eC
 eD
 eL
@@ -1748,6 +1824,11 @@ experiments
 examples
 end
 ecommcerce
+entwickelt
+ebenfalls
+entdeckten
+erhofft
+erhalten
 BP
 Bz
 BVb
@@ -1778,6 +1859,7 @@ Bewegung
 Beispiel
 Bewegungen
 Beschleunigung
+Bartolom
 TN
 Tn
 TV
@@ -1813,11 +1895,14 @@ Terms
 Toolbar
 Tricks
 Testo
+Tagebuch
 üb
 über
 überführt
 überzeugt
 übertreten
+überlegen
+überliefert
 Rn
 Rk
 Rj
@@ -1852,7 +1937,12 @@ Reihe
 Reduktionen
 Rive
 Requestly
+Religiöse
+Reichtum
+Reiches
+Rohstoffe
 Überblick
+Überlieferung
 Äußere
 ökonomische
 ändern
