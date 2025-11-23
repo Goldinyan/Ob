@@ -463,6 +463,7 @@ Web
 Websites
 Wappalyzer
 Website
+Walk
 Cbc
 Cr
 Ck
@@ -516,6 +517,7 @@ Laufen
 Lotti
 Learn
 Logo
+Long
 qV
 qT
 qH
@@ -610,6 +612,7 @@ Supa
 Social
 SaaSpo
 SaaS
+Serie
 zS
 zX
 zR
@@ -1061,6 +1064,7 @@ mobbin
 modification
 mock
 margins
+me
 do
 dK
 dQ
@@ -1497,6 +1501,7 @@ Gradient
 Google
 Godly
 Gallery
+Games
 fW
 fvB
 fnrA
@@ -1565,6 +1570,8 @@ HTTP
 Headers
 Hero
 Headlines
+Hunger
+HTTYD
 xe
 xJ
 xys
