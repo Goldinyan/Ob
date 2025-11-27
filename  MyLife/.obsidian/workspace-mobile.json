@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Projects.md",
+                "file": "850 Reading/TODO - Books/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C Projects"
+              "title": "Books"
             }
           }
         ],
@@ -205,13 +205,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "300 School/Learning Techniques/The 1-Minute Trick to Remember any Logic.md",
+            "file": "Geschichts Analyse schreiben.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -276,8 +276,10 @@
   },
   "active": "474a9ea3206b0d4f",
   "lastOpenFiles": [
-    "Grund des Willen nach Kant.md",
+    "Geschichts Analyse schreiben.md",
+    "Historischer Kontext 1500.md",
     "C Projects.md",
+    "Grund des Willen nach Kant.md",
     "300 School/Learning Techniques/The 1-Minute Trick to Remember any Logic.md",
     "000 Index/Tags/%Verbieten.md",
     "000 Index/Tags/%Verbote.md",
@@ -307,8 +309,6 @@
     "500 Philosophie/The Horror of the Eternal Life.md",
     "200 CS/Java Data Types.md",
     "999 Templates/Academic Note.md",
-    "999 Templates/General Note.md",
-    "500 Philosophie/Analysieren Philosophischer Texte.md",
     "200 CS/TS",
     "750 Writing/English/Short Story",
     "How to write a Short Story",

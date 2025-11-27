@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "f7de1922ec256c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup Web Application.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Setup Web Application"
+            }
+          },
+          {
             "id": "3c63f373bdce62b0",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -258,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 212.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -351,7 +375,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,10 +391,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0923a3c4552f20ed",
+  "active": "f7de1922ec256c70",
   "lastOpenFiles": [
-    "Geschichts Analyse schreiben.md",
     "Historischer Kontext 1500.md",
+    "Setup Web Application.md",
+    "Geschichts Analyse schreiben.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "Film Liste Julia.md",
     "changes of portfolio.md",
@@ -398,7 +423,6 @@
     "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
     "000 Index/Tags/%History.md",
     "400 History/Kolumbus Text Analyse.md",
-    "000 Index/Tags/%Practice.md",
     "200 CS/TS",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",

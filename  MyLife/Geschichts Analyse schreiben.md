@@ -1,4 +1,4 @@
-## Äußere Quellenanalyse – Inhalt
+ ## Äußere Quellenanalyse – Inhalt
 
 Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu interpretieren:
 
@@ -79,7 +79,7 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
     
 - „Der Verfasser beschreibt …“
     
-- „Thematisch gliedert sich der Text in … gefolgt von ...“
+- **„Thematisch gliedert sich der Text in … gefolgt von ...“**
 
 
 ### 5. Aufbau / Form
