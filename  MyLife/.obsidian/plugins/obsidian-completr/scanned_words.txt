@@ -136,6 +136,7 @@ recorded
 religiöse
 rechtfertigt
 relevant
+repeat
 Vs
 VO
 VJ
@@ -300,6 +301,10 @@ categorized
 checkouts
 curated
 collection
+cursor
+contain
+character
+center
 pt
 pD
 ph
@@ -345,6 +350,12 @@ products
 porjects
 politische
 primitiv
+punctuation
+pairs
+previous
+paragraph
+position
+page
 kF
 kXl
 kXlm
@@ -569,6 +580,7 @@ Christliche
 Christentums
 Chancen
 Casas
+Ctrl
 LI
 LF
 LLN
@@ -715,6 +727,9 @@ zurückerobert
 zugeschnitten
 zusammenfassen
 zeigen
+zz
+zt
+zb
 OU
 OL
 Oq
@@ -861,6 +876,7 @@ Falls
 Formulierungsbeispiele
 Formulierungen
 Formulierung
+Fx
 vHwc
 vE
 vA
@@ -903,6 +919,7 @@ verdeutlicht
 verbunden
 visual
 verfasst
+vim
 Aw
 ArX
 Ar
@@ -1014,6 +1031,7 @@ Maneken
 Muster
 Merke
 Mittelpunkt
+Movements
 hv
 hz
 have
@@ -1100,6 +1118,9 @@ logo
 letzten
 las
 lebte
+left
+last
+local
 bM
 bS
 bs
@@ -1157,6 +1178,10 @@ bilden
 bestimmte
 bezeichnet
 betrachten
+bottom
+backwards
+blank
+block
 mm
 ms
 mO
@@ -1207,6 +1232,10 @@ mithalten
 mögliche
 musst
 mehrere
+multi
+matching
+movement
+moving
 do
 dK
 dQ
@@ -1280,6 +1309,10 @@ danach
 darfst
 dahinterstehen
 daher
+down
+default
+document
+declaration
 QS
 Qn
 QGu
@@ -1335,6 +1368,7 @@ one
 onboarding
 ohne
 optional
+occurrence
 ss
 sq
 sE
@@ -1443,6 +1477,9 @@ schildert
 sachlich
 steht
 schließlich
+screen
+start
+supported
 XZ
 Xs
 XI
@@ -1512,6 +1549,9 @@ wen
 wurde
 warum
 welche
+word
+words
+without
 gv
 gu
 gP
@@ -1553,6 +1593,14 @@ gliedert
 gesellschaftliche
 geschrieben
 gefolgt
+gj
+gk
+ge
+gE
+gg
+gd
+gD
+global
 nf
 nnvi
 nC
@@ -1593,6 +1641,8 @@ neuer
 nutzen
 nennen
 nämlich
+non
+next
 jt
 jW
 jz
@@ -1640,6 +1690,7 @@ indentities
 interpretieren
 ideologische
 interpretativ
+info
 Gn
 Go
 Gs
@@ -1737,6 +1788,9 @@ featuring
 folgt
 falls
 folgenden
+forwards
+first
+fx
 Hn
 HnZ
 HV
@@ -1832,6 +1886,7 @@ testing
 tutorials
 tech
 textnah
+tx
 UU
 Uo
 Uc
@@ -1996,6 +2051,7 @@ Begegnung
 Bewertung
 Bewertungen
 Botschaft
+Basic
 TN
 Tn
 TV
@@ -2039,6 +2095,7 @@ Textnah
 Textbelege
 Textnähe
 Trennung
+Tx
 üb
 über
 überführt
