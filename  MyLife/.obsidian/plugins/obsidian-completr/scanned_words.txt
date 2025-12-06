@@ -79,6 +79,7 @@ Intention
 Immer
 Interpretieren
 Isaacs
+Ideas
 rD
 rVS
 rZ
@@ -158,6 +159,8 @@ realitzes
 releasied
 realising
 really
+re
+remember
 Vs
 VO
 VJ
@@ -280,6 +283,7 @@ Effect
 Experiments
 Every
 Eternal
+Explore
 cj
 cK
 cz
@@ -354,6 +358,8 @@ coworkers
 conversion
 completly
 chuckles
+chicago
+citrically
 pt
 pD
 ph
@@ -422,6 +428,11 @@ peak
 prize
 pain
 peace
+pen
+passive
+processing
+process
+practices
 kF
 kXl
 kXlm
@@ -469,6 +480,7 @@ kurze
 kruger
 knowledge
 knowledga
+key
 Zw
 Zy
 ZL
@@ -564,6 +576,8 @@ usablity
 user
 unter
 underestimated
+universdity
+undestand
 WGN
 Wm
 Wl
@@ -617,6 +631,8 @@ Wirkung
 Ways
 Working
 Wait
+Work
+Writing
 Cbc
 Cr
 Ck
@@ -660,6 +676,8 @@ Charles
 Concept
 Choosting
 Consensus
+Created
+Criteria
 LI
 LF
 LLN
@@ -684,6 +702,8 @@ Lage
 Legitimation
 Last
 Life
+Learning
+List
 qV
 qT
 qH
@@ -700,6 +720,7 @@ quick
 qoute
 question
 quintessence
+questions
 Yw
 Ys
 Yl
@@ -937,6 +958,11 @@ asks
 answers
 alexander
 asked
+active
+asking
+absornimg
+annotationg
+arg
 JV
 Jv
 JN
@@ -1040,6 +1066,7 @@ verfasst
 vim
 vbut
 voice
+videos
 Aw
 ArX
 Ar
@@ -1273,6 +1300,9 @@ leads
 lzay
 look
 leranding
+langauge
+learned
+lot
 bM
 bS
 bs
@@ -1358,6 +1388,7 @@ build
 body
 believer
 begins
+bone
 mm
 ms
 mO
@@ -1525,6 +1556,9 @@ dying
 devil
 darkness
 distance
+dense
+define
+deep
 QS
 Qn
 QGu
@@ -1554,6 +1588,7 @@ youth
 your
 yet
 yes
+yk
 oc
 oh
 oj
@@ -1736,6 +1771,11 @@ scene
 shaped
 sitatuion
 sense
+strict
+self
+slow
+sabotating
+scimming
 XZ
 Xs
 XI
@@ -1818,6 +1858,13 @@ weeks
 week
 waits
 wouldnt
+western
+worrht
+writing
+wirting
+wont
+watiching
+write
 gv
 gu
 gP
@@ -1926,6 +1973,8 @@ need
 needs
 nobel
 nowhere
+numbering
+notes
 jt
 jW
 jz
@@ -1988,6 +2037,12 @@ identity
 identitify
 immortal
 instantly
+ideas
+its
+idea
+integrate
+inpact
+improve
 Gn
 Go
 Gs
@@ -2038,6 +2093,7 @@ Großmacht
 Glaubens
 Gewürzen
 Gebiete
+Great
 fW
 fvB
 fnrA
@@ -2102,6 +2158,9 @@ fades
 form
 figure
 funny
+future
+finding
+fast
 Hn
 HnZ
 HV
@@ -2218,6 +2277,8 @@ task
 thinks
 talking
 times
+thinking
+taking
 UU
 Uo
 Uc
@@ -2238,6 +2299,7 @@ Unblast
 Unsplash
 Umgehung
 Until
+ULTIMATE
 DC
 DK
 DN
@@ -2365,6 +2427,9 @@ enemy
 eyes
 everything
 explains
+enough
+explaining
+effort
 BP
 Bz
 BVb
@@ -2404,6 +2469,7 @@ Botschaft
 Basic
 Bukowski
 But
+Back
 TN
 Tn
 TV
@@ -2449,6 +2515,8 @@ Textnähe
 Trennung
 Tx
 Tolerance
+Tradition
+Today
 üb
 über
 überführt
@@ -2497,6 +2565,8 @@ Rohstoffe
 Rede
 Rahmen
 Rat
+Reading
+Relevant
 Überblick
 Überlieferung
 Äußere

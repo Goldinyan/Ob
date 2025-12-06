@@ -70,6 +70,31 @@ if you write a lot you will improve
 
 
 
+Long term investemnt
+
+A book is a structure about a topic
+
+topic
+ Chapters
+  Arguments 
+   paraghras
+    sentences 
+     words 
+
+
+many building blocks becoming an idea 
+our notes are building blocks which might become and idea. / topic some day or to larger projects 
+
+
+When starting something you alraedy have ideas you don‘t start at zero you mght have toc change some but not much 
+
+
+
+Note taking
+
+one note for one book 
+every idea noted with page number and some stuff 
+
 
 
 
