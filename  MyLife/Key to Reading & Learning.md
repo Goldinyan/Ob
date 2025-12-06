@@ -22,6 +22,55 @@ don‘t be to strict but yk
 Back bone of reading 
 
 
+How to Read:
+
+always a pen -> passive to active 
+its key to learning 
+
+asking questions
+and thinking citrically 
+absornimg
+
+Writing for future self 
+annotationg: questions etc
+numbering arg 
+finding ideas 
+
+ULTIMATE 
+taking an idea and explaining it to yourself in own words 
+integrate it as own langauge
+your own effort to learn 
+
+
+processing what you learned:
+
+
+reading is 20%
+
+the rest of learning is writing notes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # References
 
 https://www.youtube.com/watch?v=0ue53UR2c48
