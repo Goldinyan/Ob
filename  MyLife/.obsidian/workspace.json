@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Templates/New Academic Note.md",
+                "file": "marcatn video \"Auslöschung der Deutschen2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,35 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Academic Note"
-            }
-          },
-          {
-            "id": "62ae73df2c99605e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 Templates/New Remember Note.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "New Remember Note"
+              "title": "marcatn video \"Auslöschung der Deutschen2"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -511,34 +487,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "4aa3193720810355",
   "lastOpenFiles": [
-    "999 Templates/New Academic Note.md",
+    "Key to Reading & Learning.md",
+    "Historischer Kontext 1500.md",
+    "Grund des Willen nach Kant.md",
+    "Geschichts Analyse schreiben.md",
+    "Gleichmäßige beschleunigte Bewegung.md",
+    "800 Other/Film Liste Julia.md",
+    "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
+    "800 Other/Packliste.md",
+    "000 Index/Tags/%Remember.md",
+    "000 Index/Tags/%Movies.md",
     "999 Templates/New Remember Note.md",
+    "999 Templates/New Academic Note.md",
     "999 Templates/New Philosophical Views.md",
     "999 Templates/New Philosopher.md",
     "999 Templates/New History Relevant Person.md",
     "999 Templates/New General Note.md",
-    "Film Liste Julia.md",
-    "200 CS/CS Projects/Changes of portfolio.md",
+    "700 TODO/Changes of portfolio.md",
     "000 Index/Tags/%Projects.md",
     "300 School/Chemie/Ester.md",
     "200 CS/CS Projects/C Projects.md",
     "000 Index/Tags/%C.md",
-    "Key to Reading & Learning.md",
     "750 Writing/Why Writing matters.md",
     "William Wahl.md",
-    "Geschichts Analyse schreiben.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
-    "001 Raw Material/Videos/How to Trick Monkey Brain To Like Doing Hard Things (Dopamine Detox).md",
-    "001 Raw Material/Videos/The Irony of the Dunning-Kruger Effect.md",
-    "Vim Keybinds.md",
-    "600 Debate/Politics/Die Art des Verbietens.md",
-    "Setup Web Application.md",
-    "Historischer Kontext 1500.md",
-    "200 CS/Usefull Stuff/Usefull Websites.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",

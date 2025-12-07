@@ -1,4 +1,12 @@
+Date: 2025-12-07
+Tags: {
+#W 
+[[%Remember]]
+[[%Movies]]
+}
 
+
+# Film Liste Julia
 
 
 The Hunger Games - 4 Filme
@@ -10,3 +18,8 @@ Ghibli Filme 8 - 15 Filme
 Whiplash - 1 Film
 Oceans - 4 Filme 
 Der Marsianer - 1 Film 
+
+
+# References
+
+

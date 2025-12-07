@@ -1,27 +1,9 @@
 Deutschland
-
-17:18
-
 Kolonialmacht Deutschland gehen Afrika
-
-17:21
-
 Deutschland gehen Asien Deutschland
-
-17:23
-
 nehmen alles Deutschland töten alles
-
-17:26
-
 Deutschland versklaven alles schlecht ja
-
-17:31
-
 Nummer 2
-
-17:33
-
 m Deutschland nehmen Arbeiter Türkei
 
 17:38
