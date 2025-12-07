@@ -1,5 +1,10 @@
 Date: 2025-12-06
-Tags: {}
+Tags: {
+#F 
+[[%Writing]]
+[[%Creativity]]
+}
+
 
 
 # William Wahl

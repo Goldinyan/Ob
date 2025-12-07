@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Konsum Kritik bei Veganismus.md",
+                "file": "Geschichts Analyse schreiben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Konsum Kritik bei Veganismus"
+              "title": "Geschichts Analyse schreiben"
             }
           }
         ],
@@ -471,7 +471,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -489,13 +489,20 @@
   },
   "active": "4aa3193720810355",
   "lastOpenFiles": [
+    "750 Writing/German/William Wahl.md",
+    "Vim Keybinds.md",
     "Setup Web Application.md",
     "Philo.md",
-    "marcatn video \"Auslöschung der Deutschen2.md",
-    "Key to Reading & Learning.md",
+    "600 Debate/Veganism/Konsum Kritik bei Veganismus.md",
+    "600 Debate/Veganism/Contra.md",
     "Historischer Kontext 1500.md",
     "Grund des Willen nach Kant.md",
     "Geschichts Analyse schreiben.md",
+    "000 Index/Tags/%Veganismus.md",
+    "000 Index/Tags/%Kapitalismus.md",
+    "000 Index/Tags/%Kritik.md",
+    "marcatn video \"Auslöschung der Deutschen2.md",
+    "Key to Reading & Learning.md",
     "Gleichmäßige beschleunigte Bewegung.md",
     "800 Other/Film Liste Julia.md",
     "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
@@ -508,13 +515,6 @@
     "999 Templates/New Philosopher.md",
     "999 Templates/New History Relevant Person.md",
     "999 Templates/New General Note.md",
-    "700 TODO/Changes of portfolio.md",
-    "000 Index/Tags/%Projects.md",
-    "300 School/Chemie/Ester.md",
-    "200 CS/CS Projects/C Projects.md",
-    "000 Index/Tags/%C.md",
-    "750 Writing/Why Writing matters.md",
-    "William Wahl.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
