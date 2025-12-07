@@ -1,5 +1,8 @@
 Date: 2025-12-07
-Tags: {}
+Tags: {
+#F
+[[%consequences]]
+}
 
 
 # Katniss Fragmentation after Everything
@@ -18,12 +21,13 @@ To get her into the hovercraft and back to District 12, she had to undergo medic
 
 The first month being home, she isn't taking care of herself, sitting in one chair all day, scared to leave the kitchen/room area and not showering or changing clothes. Haymitch and her mother aren't visiting, she doesn't because she, knowing what state she is in, can‘t face coming back to District 12 herself, abandoning Katniss. If it wasn't Greasy Sae, a friend she used to trade with, coming twice a day to make meals and making sure she would eat, it probability wouldn't have ended like this.
 
-She continues like this until Peeta comes home. Katniss seeing him planting the primroses, she starts becoming self aware of her ongoing bad shape, leading to her immediately showering and changing clothes, burning the clothes she had been wearing.
+She continues like this until Peeta comes home, her seeing him planting the primroses, she starts becoming self aware of her ongoing bad shape, leading to her immediately showering and changing clothes, burning the clothes she had been wearing.
 
 
 
-
-
+A girl, who not only survived 2 death matches, but also a civil war in two yeas, deserves not being judged by being broken. Showing a character being traumatized is needed in movies, to also show the other sides and consequences, of so-called "Stories of Heros".
 
 
 # References
+
+https://www.youtube.com/watch?v=AdQtV3BEWjc&list=WL&index=2
