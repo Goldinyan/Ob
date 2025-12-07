@@ -2,7 +2,9 @@ Date: 2025-11-18
 Cours: {
 [[%Chemie]]
 }
+
 Tags: {
+#F
 [[%Aldehyde]]
 [[%Organische Chemie]]
 }

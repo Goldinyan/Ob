@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Katniss Fragmentation after Everything.md",
+                "file": "Grund des Willen nach Kant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,7 +340,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Katniss Fragmentation after Everything"
+              "title": "Grund des Willen nach Kant"
             }
           }
         ],
@@ -511,10 +511,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "544a682329722418",
   "lastOpenFiles": [
-    "Katniss Fragmentation after Everything.md",
     "Geschichts Analyse schreiben.md",
+    "300 School/Chemie/Organische Chemie/Aldehyde.md",
+    "400 History/Kolumbus Text Analyse.md",
+    "000 Index/Tags/%Suffering.md",
+    "Katniss Fragmentation after Everything.md",
+    "000 Index/Tags/%Fragmentation.md",
+    "000 Index/Tags/%Consequences.md",
     "750 Writing/German/William Wahl.md",
     "Vim Keybinds.md",
     "Setup Web Application.md",
@@ -534,11 +539,6 @@
     "800 Other/Packliste.md",
     "000 Index/Tags/%Remember.md",
     "000 Index/Tags/%Movies.md",
-    "999 Templates/New Remember Note.md",
-    "999 Templates/New Academic Note.md",
-    "999 Templates/New Philosophical Views.md",
-    "999 Templates/New Philosopher.md",
-    "999 Templates/New History Relevant Person.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",

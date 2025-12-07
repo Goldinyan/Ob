@@ -231,6 +231,7 @@ realize
 rehydrated
 refed
 responsible
+resolved
 Vs
 VO
 VJ
@@ -535,6 +536,11 @@ care
 chair
 clothes
 conscious
+coming
+continues
+civil
+consequences
+called
 pt
 pD
 ph
@@ -632,6 +638,8 @@ psychiatric
 planting
 primroses
 puts
+punished
+probability
 kF
 kXl
 kXlm
@@ -849,6 +857,7 @@ uncuff
 uniform
 used
 until
+undergo
 WGN
 Wm
 Wl
@@ -1198,6 +1207,8 @@ Subventionen
 Steinobst
 She
 Sae
+Showing
+Stories
 zS
 zX
 zR
@@ -1416,6 +1427,8 @@ abandons
 area
 afraid
 aware
+aren
+abandoning
 JV
 Jv
 JN
@@ -1835,6 +1848,7 @@ hopeless
 held
 house
 hair
+hydration
 lI
 lt
 ls
@@ -2046,6 +2060,7 @@ bleeding
 becomes
 burns
 badly
+burning
 mm
 ms
 mO
@@ -2152,6 +2167,9 @@ medically
 mother
 month
 mats
+medical
+making
+matches
 do
 dK
 dQ
@@ -2280,6 +2298,8 @@ doing
 deemed
 describes
 dropped
+described
+deserves
 QS
 Qn
 QGu
@@ -2311,6 +2331,7 @@ your
 yet
 yes
 yk
+yeas
 oc
 oh
 oj
@@ -2357,6 +2378,7 @@ option
 overall
 off
 opportunity
+outcome
 ss
 sq
 sE
@@ -2592,6 +2614,14 @@ showers
 story
 show
 series
+saying
+situation
+staying
+sitting
+scared
+shape
+survived
+sides
 XZ
 Xs
 XI
@@ -2713,6 +2743,7 @@ weaned
 weak
 wrecked
 wearing
+wasn
 gv
 gu
 gP
@@ -2823,6 +2854,8 @@ grad
 gerne
 given
 giving
+guilty
+girl
 nf
 nnvi
 nC
@@ -2891,6 +2924,7 @@ niemanden
 npx
 nutzlos
 negieren
+needed
 jt
 jW
 jz
@@ -2905,6 +2939,7 @@ jedem
 junk
 jusit
 ja
+judged
 id
 in
 iB
@@ -2983,6 +3018,7 @@ ironic
 isolation
 instinct
 interaction
+immediately
 Gn
 Go
 Gs
@@ -3155,6 +3191,8 @@ fully
 face
 friend
 fire
+feeding
+flying
 Hn
 HnZ
 HV
@@ -3211,6 +3249,7 @@ Happy
 Her
 Haymitch
 Hob
+Heros
 xe
 xJ
 xys
@@ -3319,6 +3358,7 @@ trial
 trade
 twice
 two
+traumatized
 UU
 Uo
 Uc
@@ -3536,6 +3576,9 @@ elsewhere
 eats
 experience
 entire
+explained
+engage
+ended
 BP
 Bz
 BVb
