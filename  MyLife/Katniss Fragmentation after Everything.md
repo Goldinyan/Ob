@@ -9,11 +9,11 @@ Katniss killing Coin resolves the ongoing Climax, which some might expected, Kat
 
 After Katniss shoot Coin, she is thinking to herself: "Yes, I will get executed for this". To not get tortured and get robbed of her one thing she still has in her own hands: Taking her own life. She realizes her only way out. The Nightlock pill. So she tries taking it, but Peeta, seeing this, takes the pill away removing her only chance. She gets dragged into her old room at the training center, which was completely removed, leaving only a mattress. They uncuff her and leave her behind a locker door. Alone. 
 
-After a while she starts removing her uniform, revealing shredded body parts after her struggle. She curls up on the mattress and tries finding ways to end her life, finding one, rather bad way: Bleeding to death. 
+After a while she starts removing her uniform, revealing shredded body parts after her struggle. She curls up on the mattress and tries finding ways to end her life, finding one, rather bad way: Bleeding to death. The bleeding eventually stops, after showering she is being fed and given medicine. Her still plotting how to remove her from the world comes to the last option she has autonomy over right now. Eating and starving herself to death. Forcing herself to loose the Hunger Games - quite ironic.
+
+Weeks into this isolation, she start loosing herself, singing to herself constantly, singing songs she never knew she remembered. After weeks of her still living in complete isolation and still trying to starve herself, with a few exceptions when her survival instinct forced her to eat, 
 
 
-
-The bleeding stops eventually. She showers, has a paper gown, is being fed and given medicine, and she's plotting how to end her life. Ultimately she thinks her only real option is to starve to death. She knows she's being watched 24/7, and the only thing she has autonomy over right now is eating and drinking. So in a way, the Hunger Games—she is choosing to lose these Hunger Games. She tries to quit all her meds, morphling included, but she can't stand the withdrawal, so she gives in. She thinks: I guess I'll just be a morphling addict and waste away that way.
 
 A couple weeks into this isolation she starts singing to herself constantly. She remarks that her voice sounds splendid and she's singing all these old songs she didn't even realize she remembered. Weeks pass of her doing this, with no interaction with any other person. She's still trying to starve herself, sometimes giving in to instinct and eating some food, but overall wasting away. Eventually she realizes she's being weaned off the morphling and she's confused, thinking: oh no, the Capitol isn't trying to kill me, they're going to try to find a way to use me again. She says: at my first opportunity if I get out of here, I'm taking my own life. This is one thing I won't let the Capitol take away from me.
 
