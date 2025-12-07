@@ -1,8 +1,10 @@
 
 
 
-The Hunger Games - 4
-Now you see me - 3
-The Long Walk - 1
-HTTYD - 3 + Serie - 6 -^  - 9 
+The Hunger Games - 4 Filme
+Now you see me - 3 Filme
+The Long Walk - 1 Film
+HTTYD - 3 Filme + Serie - 6 Season 
+Over the Garden Wall - 1 Season
+Ghibli Filme 8 - 15 Filme
 
