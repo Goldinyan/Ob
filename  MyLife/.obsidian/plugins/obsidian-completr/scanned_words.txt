@@ -64,6 +64,7 @@ Pflaumen
 Peeta
 Plutarch
 President
+Primitive
 IHDR
 IDATx
 IC
@@ -232,6 +233,7 @@ rehydrated
 refed
 responsible
 resolved
+required
 Vs
 VO
 VJ
@@ -279,6 +281,7 @@ Vegane
 Vegan
 Vote
 Vorfahren
+Values
 KPgM
 KO
 Krbm
@@ -439,6 +442,7 @@ Everything
 End
 Eating
 Eventually
+Example
 cj
 cK
 cz
@@ -541,6 +545,7 @@ continues
 civil
 consequences
 called
+console
 pt
 pD
 ph
@@ -640,6 +645,8 @@ primroses
 puts
 punished
 probability
+programming
+primitive
 kF
 kXl
 kXlm
@@ -718,6 +725,7 @@ killing
 knew
 kill
 kitchen
+kind
 Zw
 Zy
 ZL
@@ -804,6 +812,7 @@ Natürlich
 Nudeln
 Nachts
 Nightlock
+Non
 uR
 uN
 ug
@@ -858,6 +867,7 @@ uniform
 used
 until
 undergo
+uOOOO
 WGN
 Wm
 Wl
@@ -999,6 +1009,7 @@ Christi
 Coin
 Climax
 Capitol
+Char
 LI
 LF
 LLN
@@ -1045,6 +1056,7 @@ Lebewesen
 Linsen
 Leid
 Leiden
+Logical
 qV
 qT
 qH
@@ -1210,6 +1222,8 @@ Sae
 Showing
 Stories
 Sonderfall
+Size
+Short
 zS
 zX
 zR
@@ -1430,6 +1444,8 @@ afraid
 aware
 aren
 abandoning
+acctualy
+analytics
 JV
 Jv
 JN
@@ -1452,6 +1468,8 @@ Jesus
 Jägern
 Jeder
 Jesu
+Java
+JVM
 FzF
 FK
 FG
@@ -1594,6 +1612,9 @@ veganen
 veganer
 vegane
 visiting
+variable
+values
+visited
 Aw
 ArX
 Ar
@@ -1852,6 +1873,7 @@ held
 house
 hair
 hydration
+hold
 lI
 lt
 ls
@@ -1945,6 +1967,8 @@ loose
 loosing
 living
 lunatic
+language
+launch
 bM
 bS
 bs
@@ -2064,6 +2088,10 @@ becomes
 burns
 badly
 burning
+below
+bit
+byte
+bytes
 mm
 ms
 mO
@@ -2173,6 +2201,8 @@ mats
 medical
 making
 matches
+memory
+manger
 do
 dK
 dQ
@@ -2303,6 +2333,9 @@ describes
 dropped
 described
 deserves
+data
+defines
+dependent
 QS
 Qn
 QGu
@@ -2625,6 +2658,13 @@ scared
 shape
 survived
 sides
+static
+single
+summarised
+signed
+submit
+search
+set
 XZ
 Xs
 XI
@@ -2859,6 +2899,7 @@ given
 giving
 guilty
 girl
+google
 nf
 nnvi
 nC
@@ -2928,6 +2969,7 @@ npx
 nutzlos
 negieren
 needed
+normally
 jt
 jW
 jz
@@ -2943,6 +2985,7 @@ junk
 jusit
 ja
 judged
+java
 id
 in
 iB
@@ -3022,6 +3065,10 @@ isolation
 instinct
 interaction
 immediately
+intenger
+int
+indexed
+insights
 Gn
 Go
 Gs
@@ -3097,6 +3144,7 @@ Geld
 Gemälde
 Greasy
 Gravitation
+Goggle
 fW
 fvB
 fnrA
@@ -3197,6 +3245,9 @@ friend
 fire
 feeding
 flying
+fact
+fundamental
+false
 Hn
 HnZ
 HV
@@ -3363,6 +3414,9 @@ trade
 twice
 two
 traumatized
+types
+typed
+tag
 UU
 Uo
 Uc
@@ -3396,6 +3450,7 @@ Unterstützung
 Unsere
 Uhr
 Ultimately
+Unicode
 DC
 DK
 DN
@@ -3457,6 +3512,9 @@ Du
 Dein
 Dörte
 District
+Data
+Default
+Description
 eC
 eD
 eL
@@ -3583,6 +3641,7 @@ entire
 explained
 engage
 ended
+eight
 BP
 Bz
 BVb
@@ -3647,6 +3706,8 @@ Bohnen
 Baby
 Bild
 Bleeding
+Boolean
+Byte
 TN
 Tn
 TV
@@ -3718,6 +3779,7 @@ Tierhaltung
 Tur
 Two
 Taking
+Types
 üb
 über
 überführt
@@ -3782,6 +3844,7 @@ Reh
 Raum
 Reis
 Rad
+Range
 Überblick
 Überlieferung
 Übersicht

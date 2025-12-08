@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key to Reading & Learning.md",
+                "file": "Setup Web Application.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Key to Reading & Learning"
+              "title": "Setup Web Application"
             }
           }
         ]
@@ -200,10 +200,12 @@
   },
   "active": "d25fa517f7bb7192",
   "lastOpenFiles": [
+    "200 CS/Coding Things/What to do to deploy website.md",
+    "200 CS/Java Data Types.md",
+    "Key to Reading & Learning.md",
     "Katniss Fragmentation after Everything.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
     "Geschichts Analyse schreiben.md",
-    "Key to Reading & Learning.md",
     "300 School/Chemie/Ester.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
     "Historischer Kontext 1500.md",
@@ -224,8 +226,6 @@
     "600 Debate/Veganism/Contra.md",
     "000 Index/Tags/%Veganismus.md",
     "000 Index/Tags/%Kapitalismus.md",
-    "000 Index/Tags/%Kritik.md",
-    "Gleichmäßige beschleunigte Bewegung.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
