@@ -22,7 +22,7 @@ Zunächst skizziert der Philosoph/ die Philosophin...
 9. „Zugleich setzt sich der Text mit der Gegenposition auseinander, indem …“
 10. „Eine mögliche Einwendung wird zurückgewiesen, weil …“
 11. „Am Ende gelangt der Autor zu dem Ergebnis, dass …“
-12. „Zusammenfassend vertritt der Text die Auffassung, dass …“
+12. „Zusammenfasse nd vertritt der Text die Auffassung, dass …“
 
 
 

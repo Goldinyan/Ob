@@ -36,5 +36,5 @@ aufs hochhaus hohe Tur'm Uhr Rad
 Christian, Christian 
 war vom Leben angetan, 
 er wusste nicht mehr an wen er sich wenden kann, 
-so rief er Jesu Christian.
+so rief er Jesu Christi an.
 # References

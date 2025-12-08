@@ -157,8 +157,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo.md",
-                "mode": "preview",
+                "file": "750 Writing/German/William Wahl.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Philo"
+              "title": "William Wahl"
             }
           }
         ],
@@ -324,8 +324,8 @@
   },
   "active": "44fb7a6b81764a72",
   "lastOpenFiles": [
-    "500 Philosophie/Analysieren Philosophischer Texte.md",
     "Philo.md",
+    "500 Philosophie/Analysieren Philosophischer Texte.md",
     "Veganismus.md",
     "850 Reading/TODO - Books/Books.md",
     "Geschichts Analyse schreiben.md",
