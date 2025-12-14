@@ -86,3 +86,42 @@ Fazit
 
 - Zusammenfassend zeigt die Analyse, dass …
 - Die Kurzgeschichte vermittelt die Lehre, dass …
+
+
+
+Erzählform:
+
+Er / Sie oder Ich
+Wirkung:
+Ich -> nähe und subjektivität
+er / sie -> Distanz aber objektiv !!!
+
+Erzählverhalten:
+
+
+- Auktorial: Erzähler weiß mehr als die Figuren, kommentiert, blickt in alle Köpfe.
+- Personal: Erzähler folgt einer Figur, zeigt nur deren Wahrnehmung. !!!
+- Neutral: Erzähler beschreibt nur äußerlich Sichtbares, keine Gedanken. !!!
+
+Wirkung:
+
+- Auktorial: Leser bekommt Überblick und Deutung.
+- Personal: Leser erlebt die Geschichte subjektiv mit einer Figur.
+- Neutral: wirkt sachlich, distanziert, fast wie eine Kameraaufnahme.
+
+
+Darbietungsform:
+
+- Direkte Rede: Anführungszeichen, Figuren sprechen selbst („…“). !!!
+- Indirekte Rede: Rede wird im Konjunktiv wiedergegeben („Er sagte, er wolle…“).
+- Erlebte Rede: Gedanken einer Figur im Präteritum, ohne Anführungszeichen („Er wollte nicht mehr weitergehen.“).
+- Innerer Monolog: Gedanken in Ich-Form, oft im Präsens („Ich kann nicht mehr…“).
+- Gedankenbericht: Erzähler fasst Gedanken zusammen („Er dachte darüber nach, wie…“). 
+
+Wirkung:
+
+- Direkte Rede: lebendig, authentisch.
+- Indirekte Rede: distanziert, vermittelt über Erzähler.
+- Erlebte Rede: Nähe zur Figur, aber eingebettet in Erzählertext.
+- Innerer Monolog: unmittelbarer Zugang zum Bewusstsein.
+- - Gedankenbericht: zusammenfassend, weniger intensiv.
