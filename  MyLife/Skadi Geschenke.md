@@ -11,10 +11,7 @@
 - Buch: [Monstrilio: A Novel](https://www.amazon.de/Monstrilio-Novel-Gerardo-S%C3%A1mano-C%C3%B3rdova/dp/1638931607/ref=tmm_pap_swatch_0 "Monstrilio: A Novel
     (https://www.amazon.de/Monstrilio-Novel-Gerardo-Sámano-Córdova/dp/1638931607/ref=tmm_pap_swatch_0)") (12,59€) (_englisch_)
 
-240 
-- 120
 
-120 
 
 - Buch: [If Cats Disappeared From The World](https://www.amazon.de/Cats-Disappeared-World-Genki-Kawamura/dp/1509889175/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.v6hsMBaR-ilB65bI7phJU6LFTRFn5FnnNEN74pJ9fj8ljPJG5V7LVaVNDdMOcXvXktGu2c9Je7Yd3sJo4uf4OBF3zb3vS7TWcp1CEgMgISE.DAS6MZ-eHWj14cMHmIbhcbCcvTeCIIUvPhft4r19Bys&qid=1765702350&sr=8-1 "If Cats Disappeared From The World
     (https://www.amazon.de/Cats-Disappeared-World-Genki-Kawamura/dp/1509889175/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.v6hsMBaR-ilB65bI7phJU6LFTRFn5FnnNEN74pJ9fj8ljPJG5V7LVaVNDdMOcXvXktGu2c9Je7Yd3sJo4uf4OBF3zb3vS7TWcp1CEgMgISE.DAS6MZ-eHWj14cMHmIbhcbCcvTeCIIUvPhft4r19Bys&qid=1765702350&sr=8-1)") (9,19€) (_englisch_)
