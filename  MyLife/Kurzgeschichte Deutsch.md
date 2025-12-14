@@ -116,7 +116,7 @@ Darbietungsform:
 - Indirekte Rede: Rede wird im Konjunktiv wiedergegeben („Er sagte, er wolle…“).
 - Erlebte Rede: Gedanken einer Figur im Präteritum, ohne Anführungszeichen („Er wollte nicht mehr weitergehen.“).
 - Innerer Monolog: Gedanken in Ich-Form, oft im Präsens („Ich kann nicht mehr…“).
-- Gedankenbericht: Erzähler fasst Gedanken zusammen („Er dachte darüber nach, wie…“). 
+- Gedankenbericht: Erzähler fasst Gedanken zusammen („Er dachte darüber nach, wie…“). !!!
 
 Wirkung:
 
