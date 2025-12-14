@@ -69,6 +69,7 @@ Paste
 Prev
 Preview
 Piranesi
+PLAFNZEN
 IHDR
 IDATx
 IC
@@ -1102,6 +1103,7 @@ Links
 Loclist
 Line
 Leaves
+LICHT
 qV
 qT
 qH
@@ -1272,6 +1274,7 @@ Short
 Speichern
 Shift
 Signature
+SCHATTEN
 zS
 zX
 zR
@@ -1340,6 +1343,7 @@ Ohnmacht
 Ohne
 Optionen
 Other
+OHNE
 am
 ad
 afj
@@ -1595,6 +1599,7 @@ Float
 Focus
 Floating
 From
+FENSTER
 vHwc
 vE
 vA
