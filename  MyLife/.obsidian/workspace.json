@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal extensions.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal extensions"
+              "title": "Untitled"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atheist – Favourite Child of God.md",
+                "file": "000 Index/Tags/%Religion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atheist – Favourite Child of God"
+              "title": "%Religion"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,10 +320,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcf18497273ca869",
+  "active": "2a26b32deecf9b6c",
   "lastOpenFiles": [
+    "600 Debate/Religion/Atheist – Favourite Child of God.md",
+    "600 Debate/Religion",
+    "000 Index/Tags/%Atheism.md",
     "Terminal extensions.md",
-    "Atheist – Favourite Child of God.md",
+    "000 Index/Tags/%Religion.md",
     "200 CS/Usefull Stuff/NVIM.md",
     "Kurzgeschichte Deutsch.md",
     "Skadi Geschenke.md",
@@ -345,9 +348,6 @@
     "200 CS/Usefull Stuff/Usefull Websites.md",
     "300 School/Physik/Terms Physik.md",
     "Grund des Willen nach Kant.md",
-    "300 School/Chemie/Organische Chemie/Aldehyde.md",
-    "400 History/Kolumbus Text Analyse.md",
-    "000 Index/Tags/%Suffering.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
@@ -358,7 +358,6 @@
     "001 Raw Material/Skadi",
     "001 Raw Material/Conversation",
     "001 Raw Material/Videos",
-    "001 Raw Material/Podcasts",
     "Untitled.canvas"
   ]
 }
