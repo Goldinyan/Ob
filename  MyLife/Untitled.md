@@ -9,7 +9,7 @@ Stell dir vor eines Tages kommst du nach Hause und bemerkst bei dir wurde eingeb
 Niemand der noch etwas von Deutschland glaubt wird verstehen wieso dies der Fall ist, sie selbst haben ja nichts getan. Noch nicht, und da liegt der Punkt, diese Untersuchungen sind nicht weil man selber etwas getan hat, sondern weil man etwas machen könnte.
 
 Dafür wurde sogar ein  neues Wort kreiert, nicht Online-Durchsuchung sondern *"Quellen-TUK"* , klingt netter aber es ist keineswegs weniger mächtig.
-Die Fußnote des Ganzen ist leider noch weit aus schlimmer. 2008 kommt der Verfassungschutz zu einer Entscheidung: Der Lapto
-
+Die Fußnote des Ganzen ist leider noch der weitaus schlimmere Skandal, 2008 kommt der Verfassungsgericht zu einer Entscheidung: Der Laptop ist nun *höchst privat*. 
+3 Jahre später guckt der Chaos-Computer-Club in den Code und stellt fest, dass der Code sehr viel mehr kann als angegeben, wie z.b.: Screenshots, Tastatureingaben
 
 # References
