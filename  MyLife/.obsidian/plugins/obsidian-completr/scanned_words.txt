@@ -72,6 +72,8 @@ Piranesi
 PLAFNZEN
 Prüft
 Parameter
+Popularity
+Plato
 IHDR
 IDATx
 IC
@@ -260,6 +262,7 @@ return
 result
 ruhig
 reduce
+rhetoric
 Vs
 VO
 VJ
@@ -487,6 +490,7 @@ Editor
 Entfernt
 Erzeugt
 Element
+Easy
 cj
 cK
 cz
@@ -600,6 +604,7 @@ contains
 capitalize
 clamp
 class
+compentence
 pt
 pD
 ph
@@ -706,6 +711,7 @@ personally
 public
 println
 prüft
+polotical
 kF
 kXl
 kXlm
@@ -789,6 +795,7 @@ kopieren
 konkrete
 kleinsten
 komplette
+keymap
 Zw
 Zy
 ZL
@@ -942,6 +949,7 @@ undergo
 uOOOO
 unique
 util
+uninformed
 WGN
 Wm
 Wl
@@ -1030,6 +1038,7 @@ WhichKey
 Wert
 Werte
 Wiederholt
+Woulndt
 Cbc
 Cr
 Ck
@@ -1156,6 +1165,7 @@ Lsp
 Lambdas
 Lambda
 Lieblingsfunktionen
+Like
 qV
 qT
 qH
@@ -1339,6 +1349,7 @@ Streams
 Syntax
 Standard
 Stream
+Someone
 zS
 zX
 zR
@@ -1580,6 +1591,7 @@ auseinandernehmen
 anyMatch
 allMatch
 asList
+arent
 JV
 Jv
 JN
@@ -1687,6 +1699,7 @@ Funktionen
 Führt
 Fang
 Filter
+Fehler
 vHwc
 vE
 vA
@@ -1766,6 +1779,7 @@ visited
 value
 vorkommt
 verwandeln
+vote
 Aw
 ArX
 Ar
@@ -1885,6 +1899,7 @@ Arrays
 Ausgabe
 Ausdruck
 Anna
+Alt
 MV
 MM
 Ms
@@ -1963,6 +1978,7 @@ Mögliche
 Mathematische
 Methoden
 Mini
+Manipulation
 hv
 hz
 have
@@ -2046,6 +2062,10 @@ handy
 html
 humility
 hasBig
+healthy
+hate
+hingerichtet
+hasste
 lI
 lt
 ls
@@ -2280,6 +2300,7 @@ bargain
 bereitstellen
 boolean
 baue
+bc
 mm
 ms
 mO
@@ -2401,6 +2422,7 @@ mehrfach
 merged
 modular
 map
+manipulation
 do
 dK
 dQ
@@ -2538,6 +2560,13 @@ demand
 divine
 delimiter
 double
+doctor
+differently
+dumb
+duecj
+demokratie
+diagnostics
+desc
 QS
 Qn
 QGu
@@ -2617,6 +2646,8 @@ overall
 off
 opportunity
 outcome
+opinion
+opinions
 ss
 sq
 sE
@@ -2885,6 +2916,11 @@ seit
 startsWith
 simpel
 siehst
+sick
+shouldnt
+socra
+suceed
+springen
 XZ
 Xs
 XI
@@ -3213,6 +3249,7 @@ nützlich
 null
 noneMatch
 names
+neighbor
 jt
 jW
 jz
@@ -3319,6 +3356,7 @@ intention
 isEmpty
 irgendein
 identisch
+informed
 Gn
 Go
 Gs
@@ -3513,6 +3551,8 @@ findIndex
 filter
 fertigen
 forEach
+founded
+feels
 Hn
 HnZ
 HV
@@ -3704,6 +3744,7 @@ toString
 toUpperCase
 total
 toArray
+treats
 UU
 Uo
 Uc
@@ -3741,6 +3782,7 @@ Unicode
 Utility
 Utils
 Utilities
+Uninformed
 DC
 DK
 DN
@@ -3951,6 +3993,8 @@ einsetzen
 erfüllt
 erfüllen
 evens
+extensions
+ersetzen
 BP
 Bz
 BVb
@@ -4028,6 +4072,7 @@ Bereich
 Bau
 Bedingung
 Bernd
+By
 TN
 Tn
 TV
@@ -4110,6 +4155,7 @@ Tag
 TypeScript
 Trennzeichen
 Tipp
+Telescope
 üb
 über
 überführt

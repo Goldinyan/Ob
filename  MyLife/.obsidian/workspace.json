@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d25fa517f7bb7192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setup Web Application.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Setup Web Application"
-            }
-          },
-          {
-            "id": "0b2218b1b8d4ef05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVCHAD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NVCHAD"
-            }
-          },
-          {
-            "id": "e05d94bcde6ab278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skadi Geschenke.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Skadi Geschenke"
-            }
-          },
-          {
             "id": "b4bfa5e672d34f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Usefull Stuff/NVIM.md",
+                "file": "Democracy is imperfect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVIM"
+              "title": "Democracy is imperfect"
             }
           },
           {
-            "id": "2a26b32deecf9b6c",
+            "id": "ebc71c540a02fa65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "dcf18497273ca869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index/Tags/%Religion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "%Religion"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -320,34 +224,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a26b32deecf9b6c",
+  "active": "ebc71c540a02fa65",
   "lastOpenFiles": [
-    "600 Debate/Religion/Atheist – Favourite Child of God.md",
-    "600 Debate/Religion",
-    "000 Index/Tags/%Atheism.md",
-    "Terminal extensions.md",
-    "000 Index/Tags/%Religion.md",
-    "200 CS/Usefull Stuff/NVIM.md",
-    "Kurzgeschichte Deutsch.md",
+    "Democracy is imperfect.md",
+    "Untitled.md",
+    "000 Index/Tags/%School.md",
+    "400 History/Geschichts Analyse schreiben.md",
     "Skadi Geschenke.md",
     "NVCHAD.md",
     "Setup Web Application.md",
-    "Democracy is imperfect.md",
+    "200 CS/Usefull Stuff/Terminal extensions.md",
+    "000 Index/Tags/%Terminal.md",
+    "600 Debate/Religion/Atheist – Favourite Child of God.md",
+    "600 Debate/Religion",
+    "000 Index/Tags/%Atheism.md",
+    "000 Index/Tags/%Religion.md",
+    "200 CS/Usefull Stuff/NVIM.md",
+    "Kurzgeschichte Deutsch.md",
     "Democracy.md",
-    "Untitled.md",
     "200 CS/Coding Things/What to do to deploy website.md",
     "200 CS/Java Data Types.md",
     "Key to Reading & Learning.md",
     "Katniss Fragmentation after Everything.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
-    "Geschichts Analyse schreiben.md",
     "300 School/Chemie/Ester.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
     "Historischer Kontext 1500.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "200 CS/Usefull Stuff/Usefull Websites.md",
     "300 School/Physik/Terms Physik.md",
-    "Grund des Willen nach Kant.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",

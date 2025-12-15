@@ -1,9 +1,0 @@
-
-
-
-zoxide
-
-rg (ripgrep)
-
-fd
-

@@ -1,4 +1,22 @@
- ## Äußere Quellenanalyse – Inhalt
+ 
+Date: 2025-12-15
+Cours: {
+#W 
+[[%History]]
+[[%Learning]]
+[[%School]]
+}
+Tags: {}
+
+
+# Terms
+
+
+
+# Notes
+
+
+## Äußere Quellenanalyse – Inhalt
 
 Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu interpretieren:
 
@@ -169,3 +187,6 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
 - **Textnähe:** Immer mit Zeilenangaben oder Zitaten arbeiten.
     
 - **Trennung:** Äußere Analyse = neutral, Innere Analyse = interpretativ.
+
+
+# Summary
