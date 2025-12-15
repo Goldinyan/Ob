@@ -74,6 +74,7 @@ Prüft
 Parameter
 Popularity
 Plato
+Punkt
 IHDR
 IDATx
 IC
@@ -319,6 +320,7 @@ Vorschläge
 Vorkommens
 Verbindet
 Vergleich
+Verfassungsgericht
 KPgM
 KO
 Krbm
@@ -491,6 +493,7 @@ Entfernt
 Erzeugt
 Element
 Easy
+Entscheidung
 cj
 cK
 cz
@@ -712,6 +715,7 @@ public
 println
 prüft
 polotical
+privat
 kF
 kXl
 kXlm
@@ -796,6 +800,9 @@ konkrete
 kleinsten
 komplette
 keymap
+kommst
+klingt
+keineswegs
 Zw
 Zy
 ZL
@@ -892,6 +899,8 @@ Nächster
 NvimTree
 NvTerm
 Novel
+Niemand
+Noch
 uR
 uN
 ug
@@ -1039,6 +1048,7 @@ Wert
 Werte
 Wiederholt
 Woulndt
+Wort
 Cbc
 Cr
 Ck
@@ -1108,6 +1118,9 @@ Config
 Child
 Collections
 Clara
+Chaos
+Computer
+Club
 LI
 LF
 LLN
@@ -1350,6 +1363,10 @@ Syntax
 Standard
 Stream
 Someone
+Stell
+Schock
+Skandal
+Screenshots
 zS
 zX
 zR
@@ -1425,6 +1442,7 @@ Other
 OHNE
 Others
 Orientiere
+Online
 am
 ad
 afj
@@ -1592,6 +1610,7 @@ anyMatch
 allMatch
 asList
 arent
+angegeben
 JV
 Jv
 JN
@@ -1619,6 +1638,7 @@ JVM
 Jump
 Jute
 JavaScript
+Jahre
 FzF
 FK
 FG
@@ -1700,6 +1720,7 @@ Führt
 Fang
 Filter
 Fehler
+Fußnote
 vHwc
 vE
 vA
@@ -2066,6 +2087,7 @@ healthy
 hate
 hingerichtet
 hasste
+höchst
 lI
 lt
 ls
@@ -2170,6 +2192,7 @@ lsp
 leer
 length
 loslegen
+leider
 bM
 bS
 bs
@@ -2301,6 +2324,7 @@ bereitstellen
 boolean
 baue
 bc
+bemerkst
 mm
 ms
 mO
@@ -2423,6 +2447,7 @@ merged
 modular
 map
 manipulation
+mächtig
 do
 dK
 dQ
@@ -2921,6 +2946,8 @@ shouldnt
 socra
 suceed
 springen
+staatlich
+schlimmere
 XZ
 Xs
 XI
@@ -3051,6 +3078,8 @@ wk
 well
 wants
 weaponise
+wieso
+weitaus
 gv
 gu
 gP
@@ -3172,6 +3201,11 @@ gute
 größten
 gerade
 genutzt
+geklaut
+genehmigt
+glaubt
+getan
+guckt
 nf
 nnvi
 nC
@@ -3250,6 +3284,10 @@ null
 noneMatch
 names
 neighbor
+noch
+neues
+netter
+nun
 jt
 jW
 jz
@@ -3437,6 +3475,7 @@ Ganze
 Gitsigns
 God
 Generische
+Ganzen
 fW
 fvB
 fnrA
@@ -3553,6 +3592,8 @@ fertigen
 forEach
 founded
 feels
+fällt
+fest
 Hn
 HnZ
 HV
@@ -3623,6 +3664,7 @@ Helferlein
 Helfer
 Hilfen
 HashSet
+Hause
 xe
 xJ
 xys
@@ -3783,6 +3825,8 @@ Utility
 Utils
 Utilities
 Uninformed
+Untitled
+Untersuchungen
 DC
 DK
 DN
@@ -3857,6 +3901,8 @@ Dreht
 Durchschnitt
 Duplikate
 Direkt
+Dafür
+Durchsuchung
 eC
 eD
 eL
@@ -3995,6 +4041,7 @@ erfüllen
 evens
 extensions
 ersetzen
+eingebrochen
 BP
 Bz
 BVb
@@ -4156,6 +4203,9 @@ TypeScript
 Trennzeichen
 Tipp
 Telescope
+Tages
+TUK
+Tastatureingaben
 üb
 über
 überführt

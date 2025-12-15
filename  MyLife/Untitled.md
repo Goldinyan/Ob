@@ -10,6 +10,10 @@ Niemand der noch etwas von Deutschland glaubt wird verstehen wieso dies der Fall
 
 Dafür wurde sogar ein  neues Wort kreiert, nicht Online-Durchsuchung sondern *"Quellen-TUK"* , klingt netter aber es ist keineswegs weniger mächtig.
 Die Fußnote des Ganzen ist leider noch der weitaus schlimmere Skandal, 2008 kommt der Verfassungsgericht zu einer Entscheidung: Der Laptop ist nun *höchst privat*. 
-3 Jahre später guckt der Chaos-Computer-Club in den Code und stellt fest, dass der Code sehr viel mehr kann als angegeben, wie z.b.: Screenshots, Tastatureingaben
+3 Jahre später guckt der Chaos-Computer-Club in den Code und stellt fest, dass der Code sehr viel mehr kann als angegeben, wie z.b.: Screenshots, Tastatureingaben, etc.
+
+Wie kann so etwas normalisiert sein?
 
 # References
+
+https://www.instagram.com/reel/DSOBu8Jk4jT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==

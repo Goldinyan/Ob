@@ -11,8 +11,5 @@ Für an die Wand kleben Psoter bei Scheibwarenläden
 
 
 
-
-
-
 FENSTER OHNE LICHT
 SCHATTEN PLAFNZEN

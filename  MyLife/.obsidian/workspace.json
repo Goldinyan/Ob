@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skadi Geschenke.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skadi Geschenke"
+              "title": "Untitled"
             }
           }
         ],
@@ -68,7 +68,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 81.59749412685983,
+        "dimension": 76.9170579029734,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -98,7 +98,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 18.402505873140175,
+        "dimension": 23.082942097026603,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -224,13 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebc71c540a02fa65",
+  "active": "23551fd757c41ab1",
   "lastOpenFiles": [
     "Untitled.md",
+    "Skadi Geschenke.md",
     "Democracy is imperfect.md",
     "000 Index/Tags/%School.md",
     "400 History/Geschichts Analyse schreiben.md",
-    "Skadi Geschenke.md",
     "NVCHAD.md",
     "Setup Web Application.md",
     "200 CS/Usefull Stuff/Terminal extensions.md",
