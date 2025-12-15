@@ -230,7 +230,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kurzgeschichte Deutsch.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -325,7 +325,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Kurzgeschichte Deutsch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",

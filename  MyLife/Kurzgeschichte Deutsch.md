@@ -30,7 +30,30 @@ Checkliste Kurzgeschichte – Erklärung
 - Abschließendes Fazit: Zusammenfassung der Analyse, evtl. Lehre oder Bezug zum eigenen Leben.
 
 ---
+
+
 Einleitung
+Zusammenfassung
+Wendepunkt
+Äußere Innere Handlung
+Ende & Schluss Typisch
+Erzählstrategien
+- Erzählform
+- Erzählverhalten
+- Darbietungsform
+
+Figuren
+Raum & Zeit
+Leitmotiv
+Sprachliche Mittel
+Fazit
+
+
+
+
+---
+
+
 
 
 
