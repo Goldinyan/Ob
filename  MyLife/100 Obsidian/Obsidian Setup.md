@@ -1,3 +1,12 @@
+Date: 2025-12-16
+Tags: {
+#N 
+[[%Config]]
+}
+
+
+# Obsidian Setup
+
 
 ## Plugins
 
@@ -15,4 +24,8 @@ By SilentVoid
 
 
 ***Typewriter***
+
+
+
+# References
 

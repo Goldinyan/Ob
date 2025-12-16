@@ -1,3 +1,12 @@
+Date: 2025-12-16
+Tags: {
+#N 
+[[%Nvim]]
+[[%Commands]]
+}
+
+
+# Vim Keybinds
 
 
 
@@ -48,3 +57,5 @@
 - Ctrl + f - move screen down one page (cursor to first line)
 - Ctrl + d - move cursor and screen down 1/2 page
 - Ctrl + u - move cursor and screen up 1/2 page
+- 
+# References

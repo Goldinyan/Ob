@@ -2,7 +2,6 @@ Date: 2025-12-16
 Tags: {
 #N 
 [[%Nvim]]
-[[%Config]]
 [[%Commands]]
 }
 

@@ -1,7 +1,18 @@
+Date: 2025-12-16
+Tags: {
+#W 
+[[%Learning]]
+[[%Philosophie]]
+[[%Basics]]
+}
+
+
+# Philo
+
+
 
 Q
 Meine eigene Position in dieser Fragestellung deckt sich größtenteils mit Aristoteles Position, weil... 
-
 
 Der Textauszug mit dem Titel "ein neuer imperativ" stammt von Hans Jonas und wurde in dem Werk "Das Prinzip Verantwortung" im Jahr 1989 veröffentlicht
 
@@ -44,4 +55,8 @@ Sehr gut, hier sind 5 knappe Stichpunkte zur pragmatischen Theorie der Sprache b
 3. Beispiele: Affenwarnrufe, Bienentanz, Delfinlaute zeigen komplexe Informationsübermittlung.
 4. Sprache wird als graduell verstanden: Tiere besitzen Vorformen, Menschen die volle symbolische Sprache.
 5. Vertreter wie Michael Tomasello und Albert Newen betonen die kognitive und soziale Dimension tierischer Kommunikation.
+
+
+# References
+
 
