@@ -1,5 +1,11 @@
 Date: 2025-12-06
-Tags: {}
+Tags: {
+#F 
+[[%Learning]]
+[[%Reading]]
+[[%Creativity]]
+}
+
 
 
 # Key to Reading & Learning

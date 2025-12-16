@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grund des Willen nach Kant.md",
+                "file": "200 CS/NVCHAD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grund des Willen nach Kant"
+              "title": "NVCHAD"
             }
           }
         ]
@@ -138,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -152,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "200 CS/NVCHAD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of NVCHAD"
             }
           }
         ],
@@ -182,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +201,34 @@
   },
   "active": "d0cbe3dfef08745e",
   "lastOpenFiles": [
+    "%Nvim.md",
+    "200 CS/NVCHAD.md",
+    "Setup Web Application.md",
+    "Philo.md",
+    "000 Index/Current State Tag.md",
+    "marcatn video \"Auslöschung der Deutschen2.md",
+    "850 Reading & Learning/Key to Reading & Learning.md",
+    "Kurzgeschichte Deutsch.md",
+    "000 Index/Tags/%Reading.md",
+    "000 Index/Tags/%Creativity.md",
+    "500 Philosophie/Grund des Willen nach Kant.md",
+    "000 Index/Tags/%Willen.md",
+    "000 Index/Tags/%Philosophie.md",
+    "000 Index/Tags/%Kant.md",
     "600 Debate/Politics/Democracy is imperfect.md",
     "000 Index/Tags/%Democracy.md",
     "000 Index/Tags/%Socrates.md",
     "900 Movies/Katniss Everdenn's Fragmentation after Everything.md",
     "900 Movies",
     "000 Index/Tags/%Consequences.md",
-    "Grund des Willen nach Kant.md",
     "Historischer Kontext 1500.md",
     "600 Debate/Politics/Der staatlich genehmigte Trojaner.md",
     "000 Index/Tags/%Germany.md",
     "Skadi Geschenke.md",
     "000 Index/Tags/%School.md",
     "400 History/Geschichts Analyse schreiben.md",
-    "NVCHAD.md",
-    "Setup Web Application.md",
     "200 CS/Usefull Stuff/Terminal extensions.md",
-    "000 Index/Tags/%Terminal.md",
-    "600 Debate/Religion/Atheist – Favourite Child of God.md",
     "600 Debate/Religion",
-    "000 Index/Tags/%Atheism.md",
-    "000 Index/Tags/%Religion.md",
-    "200 CS/Usefull Stuff/NVIM.md",
-    "Kurzgeschichte Deutsch.md",
-    "Democracy.md",
-    "200 CS/Coding Things/What to do to deploy website.md",
-    "200 CS/Java Data Types.md",
-    "Key to Reading & Learning.md",
-    "marcatn video \"Auslöschung der Deutschen2.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",

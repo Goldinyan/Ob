@@ -1,3 +1,15 @@
+Date: 2025-12-16
+Tags: {
+#N 
+[[%Nvim]]
+[[%Config]]
+[[%Commands]]
+}
+
+
+# NVCHAD
+
+
 strg + n -> file tree opens
 
 strg + h -> back to file tree when in file 
@@ -151,3 +163,6 @@ vim.keymap.set("v", "<M-8>", "{", { desc = "Visual {" })
 vim.keymap.set("v", "<M-9>", "}", { desc = "Visual }" })
 vim.keymap.set("v", "<M-5>", "[", { desc = "Visual [" })
 vim.keymap.set("v", "<M-6>", "]", { desc = "Visual ]" })
+
+
+# References
