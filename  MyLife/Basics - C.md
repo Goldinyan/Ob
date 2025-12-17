@@ -74,6 +74,74 @@ name | age | isAlive
 Like a block, and this can be bigger or smaller depending on the order.
 Everything is stored in Bytes, 0's and 1's and in C we tell the computer which data we want to save where in memory and what we want to do with them. C doesn't know about Capsulation or Methods or any other stuff.
 
+
+### Initializer
+
+```c
+struct City {
+	char *name;
+	int lat;
+	int lon;
+}
+```
+
+### Zero Initialiter
+
+```c
+int main(void){
+	struct City c = {0};
+	return 0;
+}
+```
+
+Sets all Fields to value 0!
+
+## Position Initializer 
+
+```c 
+int main(void) {
+	struct City c = {"Berlin", 73, -122}; 
+	return 0;
+}
+```
+
+### Designed Initializer
+
+```c
+int main(void){
+	struct City c = {
+		.name = "Berlin",
+	}
+	return 0;
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Enums
