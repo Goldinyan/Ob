@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "Basics - C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -205,8 +205,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiling.md",
-                "mode": "source",
+                "file": "Basics - C.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -220,11 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling"
+              "title": "Basics - C"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -392,13 +392,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10a1d6a316a8dc39",
+  "active": "c4a21a8e5322483f",
   "lastOpenFiles": [
     "Compiling.md",
+    "How is data stored in memory.md",
     "Basics - C.md",
     "C",
     "Programm efficiently.md",
-    "How is data stored in memory.md",
     "Building own Garbage Collector.md",
     "Programming in lower level langauge.md",
     "Toralizer - C.md",

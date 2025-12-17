@@ -130,6 +130,28 @@ if(x > 10){
 
 ---
 
+## Loops
+
+```c
+
+for(int i = 0; i < 5; i++){
+	printf("%d\n", i);
+}
+
+int i = 0
+while(i < 5){
+	printf("%d\n", i);
+	i++;
+}
+
+int y = 0
+do{
+	printf("%d\n", i);
+	y++;
+}while(y < 5)
+
+```
+---
 ## Void
 
 ```c

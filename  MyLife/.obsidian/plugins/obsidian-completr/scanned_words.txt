@@ -92,6 +92,7 @@ Pfad
 Pfade
 Pointer
 Pointers
+Precision
 IHDR
 IDATx
 IC
@@ -161,6 +162,7 @@ Idea
 Intro
 Input
 Injection
+Inside
 rD
 rVS
 rZ
@@ -302,6 +304,7 @@ run
 redirected
 reicht
 reusable
+returns
 Vs
 VO
 VJ
@@ -363,6 +366,8 @@ Vorhandensein
 Video
 Verarbeitung
 Validierung
+Value
+Void
 KPgM
 KO
 Krbm
@@ -703,6 +708,9 @@ char
 complex
 constants
 custom
+computers
+count
+compiler
 pt
 pD
 ph
@@ -825,6 +833,10 @@ private
 platform
 precision
 pointer
+ptr
+passed
+pointers
+prints
 kF
 kXl
 kXlm
@@ -1340,6 +1352,7 @@ Length
 Logik
 Logging
 Limits
+Loops
 qV
 qT
 qH
@@ -1547,6 +1560,7 @@ Schutz
 SQL
 Single
 Structs
+Specifiers
 zS
 zX
 zR
@@ -1629,6 +1643,7 @@ Orientierung
 Obsidian
 OK
 Or
+Operators
 am
 ad
 afj
@@ -1815,6 +1830,9 @@ aktuelle
 arrays
 assign
 addresses
+actual
+adress
+address
 JV
 Jv
 JN
@@ -1935,6 +1953,7 @@ Funktion
 Fehlerbehandlung
 Fehlern
 Functions
+Format
 vHwc
 vE
 vA
@@ -2244,6 +2263,7 @@ Modell
 Modularisierung
 Middleware
 Management
+Math
 hv
 hz
 have
@@ -2449,6 +2469,7 @@ lebendig
 ll
 link
 logical
+longer
 bM
 bS
 bs
@@ -2588,6 +2609,7 @@ blickt
 beautiful
 black
 bekommen
+between
 mm
 ms
 mO
@@ -2722,6 +2744,7 @@ mistakes
 masking
 modeling
 management
+must
 do
 dK
 dQ
@@ -2880,6 +2903,10 @@ destination
 diesen
 depends
 dereferences
+determinted
+decays
+decay
+digit
 QS
 Qn
 QGu
@@ -2896,6 +2923,7 @@ Quelle
 Quellen
 Quellenkritik
 Quote
+Qoutes
 yM
 yn
 yYv
@@ -2912,6 +2940,7 @@ yet
 yes
 yk
 yeas
+yields
 oc
 oh
 oj
@@ -2967,6 +2996,8 @@ organised
 offer
 obvious
 often
+original
+operator
 ss
 sq
 sE
@@ -3268,6 +3299,11 @@ such
 stay
 stored
 strings
+size
+sizeof
+separate
+scope
+separately
 XZ
 Xs
 XI
@@ -3549,6 +3585,7 @@ guiding
 great
 gängigen
 group
+gives
 nf
 nnvi
 nC
@@ -3760,6 +3797,7 @@ instead
 internally
 integer
 indices
+itself
 Gn
 Go
 Gs
@@ -4199,6 +4237,7 @@ therefore
 tiefere
 toralize
 traffic
+tracked
 UU
 Uo
 Uc
@@ -4333,6 +4372,8 @@ Do
 DELETE
 Dateien
 Dateiname
+Double
+Dividing
 eC
 eD
 eL
@@ -4492,6 +4533,7 @@ entgegennehmen
 einzelne
 establishes
 encapsulate
+element
 BP
 Bz
 BVb
@@ -4578,6 +4620,7 @@ Bewusstsein
 Be
 Blindes
 Basics
+Bit
 TN
 Tn
 TV
