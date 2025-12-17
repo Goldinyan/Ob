@@ -121,6 +121,32 @@ void printIntenger(int x){
 }
 ```
 
+## Array Lenght
+
+```c
+int main(void) {
+
+  int nums[5] = {4, 7, 10, 3, 6};
+  int length = sizeof(nums) / sizeof(nums[0]);
+  
+  return 0;
+}
+
+float getAverage(int arr[], int lenght){
+  int sum = 0;
+  for(int i; i < lenght; i++){
+    sum += arr[i];
+  }
+  return (float)sum / lenght;
+}
+```
+
+sizeof(nums) returns total Bytes of the array and
+   sizeof(nums[0]) returns Bytes of one element
+   When passing an array to a fuction, it decays to a pointer and will no longer give the array lenght, thats why you pass it as a second parameter
+   Inside foo(int *arr), the parameter arr is just a pointer.
+   sizeof(arr) now gives the size of the pointer itself (e.g. 8 bytes on a 64‑bit system), not the array.
+
 ## Format Specifiers
 
 %d - int (digit)
