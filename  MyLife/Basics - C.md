@@ -69,7 +69,6 @@ enum Color c = GREEN;
   ```
 
 ---
-
 ## Pointers
 Pointers store memory addresses.  
 ```c
@@ -77,9 +76,13 @@ int x = 5;
 int *ptr = &x;   // ptr points to x
 
 printf("Address of x = %p\n", (void*)&x); 
+// Address of x = 0x7ffee3b2c8ac
 ```
+
 - `*ptr` dereferences the pointer to get the value.  
 - Central for memory management and arrays.
+- adress of x → &x or ptr
+- Value of x → x or *ptr (with star)
 
 ---
 

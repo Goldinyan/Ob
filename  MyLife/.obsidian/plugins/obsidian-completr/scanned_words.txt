@@ -90,6 +90,8 @@ Ports
 Parsing
 Pfad
 Pfade
+Pointer
+Pointers
 IHDR
 IDATx
 IC
@@ -299,6 +301,7 @@ ruins
 run
 redirected
 reicht
+reusable
 Vs
 VO
 VJ
@@ -560,6 +563,7 @@ Endlosschleife
 Erstellung
 Endpunkte
 Erweiterungen
+Enums
 cj
 cK
 cz
@@ -694,6 +698,11 @@ call
 connection
 communication
 connects
+commonly
+char
+complex
+constants
+custom
 pt
 pD
 ph
@@ -813,6 +822,9 @@ program
 proxy
 part
 private
+platform
+precision
+pointer
 kF
 kXl
 kXlm
@@ -1258,6 +1270,7 @@ CSRF
 Coden
 CLI
 Compiling
+Central
 LI
 LF
 LLN
@@ -1532,6 +1545,8 @@ Sicherheit
 Stabilität
 Schutz
 SQL
+Single
+Structs
 zS
 zX
 zR
@@ -1797,6 +1812,9 @@ absoluten
 abhaken
 aktueller
 aktuelle
+arrays
+assign
+addresses
 JV
 Jv
 JN
@@ -1916,6 +1934,7 @@ Faced
 Funktion
 Fehlerbehandlung
 Fehlern
+Functions
 vHwc
 vE
 vA
@@ -2134,6 +2153,7 @@ Authentifizierung
 Ausführen
 Angriffen
 ASM
+Access
 MV
 MM
 Ms
@@ -2700,6 +2720,8 @@ matter
 message
 mistakes
 masking
+modeling
+management
 do
 dK
 dQ
@@ -2856,6 +2878,8 @@ daughter
 detail
 destination
 diesen
+depends
+dereferences
 QS
 Qn
 QGu
@@ -2942,6 +2966,7 @@ objektiv
 organised
 offer
 obvious
+often
 ss
 sq
 sE
@@ -3241,6 +3266,8 @@ statische
 server
 such
 stay
+stored
+strings
 XZ
 Xs
 XI
@@ -3521,6 +3548,7 @@ godly
 guiding
 great
 gängigen
+group
 nf
 nnvi
 nC
@@ -3609,6 +3637,7 @@ nd
 nice
 network
 nvim
+named
 jt
 jW
 jz
@@ -3728,6 +3757,9 @@ innocent
 invoked
 intercept
 instead
+internally
+integer
+indices
 Gn
 Go
 Gs
@@ -3948,6 +3980,9 @@ flow
 funktionierenden
 formuliere
 front
+float
+floating
+fields
 Hn
 HnZ
 HV
@@ -4207,6 +4242,7 @@ Untersuchungen
 Unvermittelter
 Use
 Unterschied
+Useful
 DC
 DK
 DN
@@ -4455,6 +4491,7 @@ evil
 entgegennehmen
 einzelne
 establishes
+encapsulate
 BP
 Bz
 BVb
@@ -4540,6 +4577,7 @@ Beziehung
 Bewusstsein
 Be
 Blindes
+Basics
 TN
 Tn
 TV

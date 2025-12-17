@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "Basics - C.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -392,11 +392,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4a21a8e5322483f",
+  "active": "10a1d6a316a8dc39",
   "lastOpenFiles": [
+    "Compiling.md",
     "Basics - C.md",
     "C",
-    "Compiling.md",
     "Programm efficiently.md",
     "How is data stored in memory.md",
     "Building own Garbage Collector.md",
