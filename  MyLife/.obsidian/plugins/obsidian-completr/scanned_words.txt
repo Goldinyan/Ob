@@ -82,6 +82,14 @@ Poster
 Psoter
 Part
 Plugins
+Protokoll
+POST
+PUT
+Programmierung
+Ports
+Parsing
+Pfad
+Pfade
 IHDR
 IDATx
 IC
@@ -149,6 +157,8 @@ Indirekte
 Innerer
 Idea
 Intro
+Input
+Injection
 rD
 rVS
 rZ
@@ -345,6 +355,8 @@ Vergleich
 Verfassungsgericht
 Vorhandensein
 Video
+Verarbeitung
+Validierung
 KPgM
 KO
 Krbm
@@ -426,6 +438,8 @@ Köpfe
 Kameraaufnahme
 Konjunktiv
 Keep
+Komponente
+Konfigurationsdatei
 EG
 ER
 Ek
@@ -538,6 +552,10 @@ Erzählertext
 Essay
 Essays
 Emotion
+Endlosschleife
+Erstellung
+Endpunkte
+Erweiterungen
 cj
 cK
 cz
@@ -778,6 +796,7 @@ promise
 present
 provide
 prefer
+planen
 kF
 kXl
 kXlm
@@ -868,6 +887,7 @@ keineswegs
 knapp
 kommentiert
 kleben
+klare
 Zw
 Zy
 ZL
@@ -975,6 +995,8 @@ Nähe
 NVCHAD
 Notebook
 Nothing
+Netzwerkcode
+Nutzereingaben
 uR
 uN
 ug
@@ -1035,6 +1057,9 @@ util
 uninformed
 unvermittelt
 unmittelbarer
+usw
+ungültige
+unbekannte
 WGN
 Wm
 Wl
@@ -1209,6 +1234,11 @@ Conclusion
 Calendar
 Cane
 Clare
+Cookies
+Controller
+Caching
+CSRF
+Coden
 LI
 LF
 LLN
@@ -1274,6 +1304,10 @@ Leitmotivs
 Leser
 Look
 Liam
+Length
+Logik
+Logging
+Limits
 qV
 qT
 qH
@@ -1470,6 +1504,15 @@ Scheibwarenläden
 Stay
 Structure
 SilentVoid
+Servers
+Statuscodes
+Statuszeile
+Saubere
+Sicherheitseinstellungen
+Sicherheit
+Stabilität
+Schutz
+SQL
 zS
 zX
 zR
@@ -1511,6 +1554,7 @@ zwei
 zusammen
 zwischen
 zentralen
+zurückschicken
 OU
 OL
 Oq
@@ -1549,6 +1593,7 @@ Orientiere
 Online
 Orientierung
 Obsidian
+OK
 am
 ad
 afj
@@ -1726,6 +1771,10 @@ achieved
 action
 across
 amplifying
+aufsetzen
+ausgeführt
+absoluten
+abhaken
 JV
 Jv
 JN
@@ -1754,6 +1803,7 @@ Jump
 Jute
 JavaScript
 Jahre
+JS
 FzF
 FK
 FG
@@ -1841,6 +1891,9 @@ Figuren
 Finished
 Für
 Faced
+Funktion
+Fehlerbehandlung
+Fehlern
 vHwc
 vE
 vA
@@ -2054,6 +2107,10 @@ Auktorial
 Anführungszeichen
 Agamemnon
 Appearance
+Alles
+Authentifizierung
+Ausführen
+Angriffen
 MV
 MM
 Ms
@@ -2140,6 +2197,10 @@ Mittel
 Metaphern
 Monolog
 Macrea
+Modell
+Modularisierung
+Middleware
+Management
 hv
 hz
 have
@@ -2232,6 +2293,8 @@ herausstellen
 hinweisen
 half
 helps
+hast
+hin
 lI
 lt
 ls
@@ -3145,6 +3208,8 @@ straight
 soon
 stuck
 sloppy
+strukturierte
+statische
 XZ
 Xs
 XI
@@ -3154,6 +3219,7 @@ XE
 Xz
 XR
 Xv
+XSS
 wE
 wu
 wq
@@ -3423,6 +3489,7 @@ geschieht
 godly
 guiding
 great
+gängigen
 nf
 nnvi
 nC
@@ -3527,6 +3594,7 @@ judged
 java
 join
 jederzeit
+je
 id
 in
 iB
@@ -3710,6 +3778,9 @@ Genre
 Gedankenbericht
 Geschichte
 Gedanken
+Gliederung
+GET
+Größe
 fW
 fvB
 fnrA
@@ -3838,6 +3909,8 @@ father
 followed
 fiction
 flow
+funktionierenden
+formuliere
 Hn
 HnZ
 HV
@@ -3916,6 +3989,9 @@ Höhepunkt
 Hauptfigur
 Hope
 Hopelessness
+HTML
+Handler
+Handling
 xe
 xJ
 xys
@@ -4048,6 +4124,7 @@ tragedy
 thread
 technique
 therefore
+tiefere
 UU
 Uo
 Uc
@@ -4090,6 +4167,7 @@ Untitled
 Untersuchungen
 Unvermittelter
 Use
+Unterschied
 DC
 DK
 DN
@@ -4177,6 +4255,8 @@ Diese
 Distanz
 Direkte
 Do
+DELETE
+Dateien
 eC
 eD
 eL
@@ -4332,6 +4412,8 @@ emotional
 easiness
 effectiveness
 evil
+entgegennehmen
+einzelne
 BP
 Bz
 BVb
@@ -4416,6 +4498,7 @@ Bezug
 Beziehung
 Bewusstsein
 Be
+Blindes
 TN
 Tn
 TV
@@ -4507,6 +4590,7 @@ Thema
 Tasks
 Templates
 Typewriter
+Timeouts
 üb
 über
 überführt
@@ -4583,6 +4667,12 @@ Rename
 Reset
 Ratmans
 Rules
+Rohdaten
+Requests
+Routing
+Router
+Ressourcen
+Roadmap
 Überblick
 Überlieferung
 Übersicht
