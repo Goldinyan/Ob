@@ -169,11 +169,26 @@ typedef struct Pastry {
 	float weight;
 } pastry_t //_t indicator for type
 
+//This now makes a type called: pastry_t
+
 //Now we don‘t have to do this:
 
-struct Pas
-//This now makes a type called: pastry_t
+
+struct Pastry newPastry(char *name, float weight){}
+
+//instead we can do this:
+
+pastry_t newPastry(char *name, float weight){}
+
 ```
+
+### sizeof
+
+Structs are like a way to talk about or name different 
+relative locations within a block of memory.
+We know an int is 4 Bytes and if we have a struct with 3 ints (x, y, z), then sizeof(struct) will return 12 Bytes.
+
+Important is to not forget padding
 ### Example Code for Structs 
 
 ```c
