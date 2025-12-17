@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programm efficiently.md",
+                "file": "Compiling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programm efficiently"
+              "title": "Compiling"
             }
           },
           {
@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "How is data stored in memory"
             }
+          },
+          {
+            "id": "c4a21a8e5322483f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compiling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Compiling"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -344,12 +368,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b815591ad4f6ae15",
+  "active": "911cf26aaadb49d0",
   "lastOpenFiles": [
+    "Programm efficiently.md",
+    "Compiling.md",
+    "How is data stored in memory.md",
     "Building own Garbage Collector.md",
     "Programming in lower level langauge.md",
-    "Programm efficiently.md",
-    "How is data stored in memory.md",
     "Toralizer - C.md",
     "Memory Managment - C",
     "200 CS/CS Projects/C Projects.md",
@@ -372,7 +397,6 @@
     "Kurzgeschichte Deutsch.md",
     "000 Index/Tags/%Reading.md",
     "000 Index/Tags/%Creativity.md",
-    "500 Philosophie/Grund des Willen nach Kant.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
