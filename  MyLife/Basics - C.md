@@ -164,8 +164,20 @@ x / y
 x++; // x += 1
 x--; // x -=1
 
-int x = 5
-y = x++ // y is as
+// PREFIX (before)
+
+int x = 5;
+y = x++; // y is assigned first and then 
+		 // x is added 1, like in Java so
+		 // y = 5, x = 6
+		
+// POSTFIX (after)
+
+int x = 5;
+y = ++x; // x is added before and then 
+		 // being assigned to y, so
+		 // x = 6, y = 6
+		
 ```
 ## Format Specifiers
 
