@@ -11,7 +11,11 @@ Tags: {
 ### Basic Types
 
 
->The actual size of these can vary between different system, but can be determinted using *sizeof()* in C
+>The actual size of these can vary between different computers, (32-Bit, 64-Bit, etc) , but can be determinted using *sizeof()* in C.
+
+```c
+printf("sizeof(char) = %zu\n", sizeof(char));
+```
 
 - **int**  
   Integer type. Size depends on the platform (commonly 4 bytes).
@@ -204,7 +208,8 @@ y = ++x; // x is added before and then
 %d - int (digit)
 %c - chars
 %f - float
-%s- string (char *)
+%s - string (char *)
+%zu - sizeof() -> is an operator not a function
 
 \n -> prints new Line
 
