@@ -188,7 +188,26 @@ Structs are like a way to talk about or name different
 relative locations within a block of memory.
 We know an int is 4 Bytes and if we have a struct with 3 ints (x, y, z), then sizeof(struct) will return 12 Bytes.
 
-Important is to not forget padding
+Important is to not forget padding, if there is a struct for example: 
+
+```c
+typedef struct Human {
+	char firstIntial;
+	int age;
+	doouble height;
+} 
+```
+
+A char is 1 Byte, int is 4 Bytes and double is 8 Bytes, and because its faster for the computer to access age when its on a 4 Byte aligned address than it would be on the 1 of char, so it gives char 3 Bytes of padding to be faster.
+
+Without padding this:     (every v is 1 Byte)
+
+char   age      height 
+v | v v v v | v v v v v v v v  
+
+then with padding:
+
+char    
 ### Example Code for Structs 
 
 ```c
