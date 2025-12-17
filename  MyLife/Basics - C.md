@@ -23,13 +23,13 @@ Tags: {
   ```
 
 - **char**  
-  Single character, stored internally as an integer (1 byte).  
+  Single character, stored internally as an integer (1 byte).  (Single Qoutes 'A')
   ```c
   char c = 'A';
   ```
 
 - **char\***  
-  Pointer to a character, often used for strings (arrays of characters).  
+  Pointer to a character, often used for strings (arrays of characters).  (Double Qoutes "")
   ```c
   char *str = "Hello";
   ```
@@ -105,6 +105,17 @@ int add(int a, int b) {
 ```
 
 
+## Format Specifiers
 
+%d - int (digit)
+%c - chars
+%f - float
+%s- string (char *)
+
+\n -> prints new Line
+
+```c
+printf("Hello, %s. You're %d years old. \n", name, age)
+```
 
 # References
