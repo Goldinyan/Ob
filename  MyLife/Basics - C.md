@@ -52,6 +52,7 @@ printf("sizeof(char) = %zu\n", sizeof(char));
 
 ## Structs
 Structs group different data types under one name.  
+
 ```c
 struct Point {
     int x;
@@ -60,8 +61,15 @@ struct Point {
 
 struct Point p1 = {10, 20};
 ```
-- Access fields with `.`  
+- Have no behaviour like classes. (Inheritance or Methods)
+- just data
+- Access fields with *.* or if its a pointer with the *->* operator
 - Useful for modeling complex data.
+
+The order matters! 
+We tell C to make this data and place it next to each other in Memory and operate on them via struct. 
+
+name | age | isAlive
 
 ---
 
