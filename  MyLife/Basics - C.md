@@ -121,7 +121,7 @@ void printIntenger(int x){
 }
 ```
 
-## Array Lenght
+## Array Length & Pointer
 
 ```c
 int main(void) {
@@ -141,11 +141,17 @@ float getAverage(int arr[], int lenght){
 }
 ```
 
-sizeof(nums) returns total Bytes of the array and
-   sizeof(nums[0]) returns Bytes of one element
-   When passing an array to a fuction, it decays to a pointer and will no longer give the array lenght, thats why you pass it as a second parameter
-   Inside foo(int *arr), the parameter arr is just a pointer.
-   sizeof(arr) now gives the size of the pointer itself (e.g. 8 bytes on a 64‑bit system), not the array.
+
+`sizeof(nums)` gives the total number of bytes of the array, while `sizeof(nums[0])` gives the size of a single element. Dividing the two yields the element count. When you pass an array to a function, it decays into a pointer, so the compiler no longer knows its length. That is why you must pass the length as a separate parameter. Inside a function like `foo(int *arr)`, the parameter is just a pointer, and `sizeof(arr)` only returns the size of the pointer itself, for example 8 bytes on a 64‑bit system, not the size of the original array. 
+
+```c
+int arr[5] = {1,2,3,4,5};
+int *p = arr
+
+// *p = (1)
+// *(p + 1) = 2
+```
+A pointer in C knows the address it points to and lets you read or write the value there, but it does not store the length of the memory block. Arrays in their own scope carry size information through `sizeof`, but once passed to a function they decay into pointers, and `sizeof` then only returns the size of the pointer itself. That’s why the array length must always be tracked or passed separately.
 
 ## Format Specifiers
 
