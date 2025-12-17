@@ -198,16 +198,34 @@ typedef struct Human {
 } 
 ```
 
-A char is 1 Byte, int is 4 Bytes and double is 8 Bytes, and because its faster for the computer to access age when its on a 4 Byte aligned address than it would be on the 1 of char, so it gives char 3 Bytes of padding to be faster.
+A char is 1 Byte, int is 4 Bytes and double is 8 Bytes, and because its faster for the computer to access age when its on a 4 Byte aligned address than it would be on the 1 of char, so it gives char 3 Bytes of padding to be faster. So sizeof(struct) involves the padding so it isn't always exactly the sum of sizeof all his values.
 
 Without padding this:     (every v is 1 Byte)
 
-char   age      height 
-v | v v v v | v v v v v v v v  
+   char   age      height 
+	v | v v v v | v v v v v v v v  
 
 then with padding:
 
-char    
+  char  padding   age          height
+	v | v v v | v v v v | v v v v v v v v 
+
+
+#### Struct Padding
+
+A easy go to role is from largest to smallest, but thinking about it is best for perfomance.
+
+```c
+typedef struct x {
+	char a; // 1 B
+	double b; // 8 B
+	char c // 1 B
+	char d // 1 B
+	long e // 4 B
+	char f // 1B
+} poorlyAssigned
+```
+
 ### Example Code for Structs 
 
 ```c
