@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Enums - C.md",
+                "file": "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Enums - C"
+              "title": "Exkursion in die Philosophie - Edward Hopper"
             }
           }
         ]
@@ -201,6 +201,10 @@
   },
   "active": "64555537497ac7ac",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
+    "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
+    "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
+    "200 CS/Languages/C/Basics - C/Enums - C.md",
     "100 Obsidian/Obsidian Setup.md",
     "200 CS/Coding Things/Web UI Templates/Daisy.md",
     "200 CS/Coding Things/Web UI Templates/Flowbite.md",
@@ -221,14 +225,10 @@
     "000 Index/Tags/%Array.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "000 Index/Tags/%Functions.md",
-    "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
     "000 Index/Tags/%Loops.md",
     "200 CS/Languages/C/Basics - C/Types % Declaration - C.md",
-    "200 CS/Languages/C/Basics - C/Enums - C.md",
     "000 Index/Tags/%Enums.md",
     "200 CS/Languages/C/Basics - C",
-    "Structs - C.md",
-    "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Structs - C",
     "200 CS/CS Projects/Low Level",
     "200 CS/CS Projects/Hardware",
