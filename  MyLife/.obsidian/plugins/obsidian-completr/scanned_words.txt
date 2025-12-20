@@ -170,6 +170,7 @@ Inheritance
 Initializer
 Initialiter
 Important
+Initializing
 rD
 rVS
 rZ
@@ -4867,6 +4868,7 @@ Timeouts
 Tor
 Typedef
 Tasteneingaben
+TypeDef
 üb
 über
 überführt

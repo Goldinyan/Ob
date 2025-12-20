@@ -5,3 +5,5 @@ typed
 Types
 TypeScript
 Typewriter
+typedef
+Typedef

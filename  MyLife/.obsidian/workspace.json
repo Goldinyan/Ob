@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Types - C.md",
+                "file": "Types - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Types - C"
+              "title": "Types - C"
             }
           },
           {
-            "id": "baee346fe09a1d71",
+            "id": "8e048144e037d791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Types - C.md",
+                "file": "Structs - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Types - C"
+              "title": "Structs - C"
+            }
+          },
+          {
+            "id": "905bc395add08c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessing & Updating Structs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Accessing & Updating Structs"
+            }
+          },
+          {
+            "id": "d4905a17930d4e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initializing Structs - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Initializing Structs - C"
             }
           }
         ],
@@ -248,12 +296,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "8e048144e037d791",
   "lastOpenFiles": [
+    "Initializing Structs - C.md",
     "Structs - C.md",
+    "Accessing & Updating Structs.md",
+    "Basic Structs - C.md",
+    "Types - C.md",
+    "000 Index/Tags/%Structs.md",
     "Structs - C",
     "200 CS/Languages/C/Basics - C.md",
-    "Basic Types - C.md",
     "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Multiplayer game chess?.md",
     "200 CS/CS Projects/Phase 6 learner with firebase auth.md",
@@ -277,9 +329,6 @@
     "200 CS/Compiling.md",
     "200 CS/Hardware",
     "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
-    "000 Index/Tags/%TS.md",
-    "000 Index/Tags/%Cpu.md",
-    "000 Index/Tags/%Hardware.md",
     "200 CS/Languages",
     "200 CS/Languages/ASM",
     "200 CS/Languages/C",
