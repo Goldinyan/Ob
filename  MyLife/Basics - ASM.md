@@ -18,6 +18,18 @@ move into rdi the value rsi.
 
 Also important are Memory-Operations
 ```nasm
-move rdi
+move rdi, qword ptr [rsi]
 ```
-this is called a qword pointer of rsi, that means read the value of rsi
+this is called a qword pointer of rsi, that means treat the value in rsi as a pointer and then remove the qword length thats 8 bytes and put it into rdi
+
+We can also do this in reverse:
+
+```nasm
+mov qword ptr [rsi], rdi
+```
+
+
+Move to the qword ptr in rsi, the value in rdi
+
+
+First one was, we took values from memoy and put it into registers, now we took values that are in registers into memoy, thats a store operation.
