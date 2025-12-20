@@ -320,6 +320,8 @@ rsi
 reads
 role
 rating
+rausgeholt
+retten
 Vs
 VO
 VJ
@@ -587,6 +589,7 @@ Erstellung
 Endpunkte
 Erweiterungen
 Enums
+Empathielosigkeit
 cj
 cK
 cz
@@ -962,6 +965,7 @@ knapp
 kommentiert
 kleben
 klare
+konnte
 Zw
 Zy
 ZL
@@ -1073,6 +1077,8 @@ Notebook
 Nothing
 Netzwerkcode
 Nutzereingaben
+Nachbarn
+Nachhinein
 uR
 uN
 ug
@@ -1140,6 +1146,7 @@ understanding
 uses
 unlike
 upload
+ungefähr
 WGN
 Wm
 Wl
@@ -1614,6 +1621,7 @@ Speicher
 Spielers
 Spieler
 Spotify
+Scheiß
 zS
 zX
 zR
@@ -1657,6 +1665,7 @@ zwischen
 zentralen
 zurückschicken
 zahlen
+zumindest
 OU
 OL
 Oq
@@ -1897,6 +1906,8 @@ alway
 architecture
 auth
 available
+aufgefallen
+angestellt
 JV
 Jv
 JN
@@ -2108,6 +2119,7 @@ version
 void
 via
 variables
+voll
 Aw
 ArX
 Ar
@@ -2244,6 +2256,7 @@ Access
 Accessing
 Auth
 Allow
+Aufgabe
 MV
 MM
 Ms
@@ -2339,6 +2352,7 @@ Memory
 Move
 Methods
 Matchmaking
+Migration
 hv
 hz
 have
@@ -2436,6 +2450,7 @@ hin
 helping
 highest
 height
+hab
 lI
 lt
 ls
@@ -2557,6 +2572,7 @@ load
 locations
 largest
 lower
+letztens
 bM
 bS
 bs
@@ -2702,6 +2718,7 @@ binarySearchSqrt
 break
 basic
 bits
+beschützen
 mm
 ms
 mO
@@ -2841,6 +2858,7 @@ means
 memoy
 mid
 multiple
+mitbekommen
 do
 dK
 dQ
@@ -3707,6 +3725,11 @@ gängigen
 group
 gives
 general
+gebrannt
+ganzen
+gewesen
+generieren
+generell
 nf
 nnvi
 nC
@@ -3818,6 +3841,7 @@ java
 join
 jederzeit
 je
+jetzt
 id
 in
 iB
@@ -4016,6 +4040,7 @@ Gliederung
 GET
 Größe
 Game
+Glück
 fW
 fvB
 fnrA
@@ -4236,6 +4261,7 @@ Handler
 Handling
 Here
 Have
+Haben
 xe
 xJ
 xys
@@ -4376,6 +4402,7 @@ treated
 tell
 typedef
 talk
+tun
 UU
 Uo
 Uc
@@ -4685,6 +4712,8 @@ each
 easy
 everytime
 easier
+eigentlich
+entschieden
 BP
 Bz
 BVb
