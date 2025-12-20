@@ -1,6 +1,16 @@
----
-~
----
+Date: 2025-12-20
+Tags: {
+#W
+[[%Cpu]]
+[[%LowLevel]]
+[[%Hardware]]
+[[%Computer Science]]
+}
+
+
+# Basics - Cpu
+
+
 Inside the CPU there are many very small storage locations called **registers**.  
 Registers are **extremely fast memory** that the CPU uses directly when performing operations.
 
@@ -22,3 +32,6 @@ Registers like **RDI, RSI, and R8** are **64-bit registers** on x86-64 systems.
 - `ax` → lower 16 bits
     
 - `al` → lower 8 bits
+
+
+# References

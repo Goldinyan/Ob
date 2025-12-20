@@ -8,204 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0318c143377f4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/CS Projects/C Projects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C Projects"
-            }
-          },
-          {
-            "id": "7e640e7676edd9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toralizer - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Toralizer - C"
-            }
-          },
-          {
-            "id": "0cb19a15c6eb42d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toralizer - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Toralizer - C"
-            }
-          },
-          {
-            "id": "4a1daf2392a6d034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How is data stored in memory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How is data stored in memory"
-            }
-          },
-          {
-            "id": "911cf26aaadb49d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Compiling"
-            }
-          },
-          {
-            "id": "10a1d6a316a8dc39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics - C"
-            }
-          },
-          {
-            "id": "695bc7ee2c09759d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming in lower level langauge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programming in lower level langauge"
-            }
-          },
-          {
-            "id": "b815591ad4f6ae15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How is data stored in memory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How is data stored in memory"
-            }
-          },
-          {
             "id": "c4a21a8e5322483f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics - C.md",
+                "file": "000 Index/Tags/%Cpu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basics - C"
-            }
-          },
-          {
-            "id": "c8b555af9f0ed11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - ASM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics - ASM"
-            }
-          },
-          {
-            "id": "2c68f0560b2d55ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - ASM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics - ASM"
-            }
-          },
-          {
-            "id": "727848a6ba6ae97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - ASM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics - ASM"
-            }
-          },
-          {
-            "id": "b0d5fa7ebe4b9407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - ASM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics - ASM"
+              "title": "%Cpu"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -488,45 +199,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0d5fa7ebe4b9407",
+  "active": "23551fd757c41ab1",
   "lastOpenFiles": [
-    "000 Index/Tags/%LowLevel.md",
-    "000 Index/Tags/%ASM.md",
-    "First little ASM Project.md",
-    "Basics - ASM.md",
+    "000 Index/Tags/%Cpu.md",
+    "000 Index/Tags/%Hardware.md",
     "Basics - Cpu.md",
     "Basics - C.md",
+    "200 CS/Languages/ASM/Basics - ASM.md",
+    "200 CS/Usefull Stuff/NVCHAD.md",
+    "200 CS/Java Data Types.md",
+    "200 CS/CS Projects/Java 2D-Game/Player.java.md",
+    "200 CS/CS Projects/Java 2D-Game/Main.java.md",
+    "200 CS/Languages",
     "Compiling.md",
+    "200 CS/Coding Things/React cases in maps.md",
+    "200 CS/Coding Things/What to do to deploy website.md",
+    "200 CS/Coding Things/BinarySearchSqrt.md",
+    "First little ASM Project.md",
+    "200 CS/Languages/ASM",
+    "000 Index/Tags/%LowLevel.md",
+    "000 Index/Tags/%ASM.md",
     "How is data stored in memory.md",
     "C",
     "Programm efficiently.md",
     "Building own Garbage Collector.md",
     "Programming in lower level langauge.md",
     "Toralizer - C.md",
-    "Memory Managment - C",
+    "C/Memory Managment - C",
     "200 CS/CS Projects/C Projects.md",
     "000 Index/Tags/%WebDev.md",
-    "200 CS/Setup Web Application.md",
+    "200 CS/Usefull Stuff/Setup Web Application.md",
     "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
     "800 Other/Skadi Geschenke.md",
-    "100 Obsidian/Obsidian Setup.md",
-    "100 Obsidian/How to write a Mini-Essay.md",
-    "200 CS/NVCHAD.md",
-    "300 School/Physik/Gleichförmige Bewegungen.md",
-    "200 CS/Vim Keybinds.md",
-    "500 Philosophie/Philo.md",
-    "000 Index/Tags/%Basics.md",
-    "000 Index/Tags/%Nvim.md",
-    "000 Index/Tags/%Config.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
     "300 School/Chemie",
-    "200 CS/TS",
     "Pasted image 20251113203103.png",
-    "001 Raw Material/Surrounded",
     "Untitled.canvas"
   ]
 }

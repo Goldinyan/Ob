@@ -2,7 +2,8 @@ Date: 2025-12-20
 Tags: {
 #W 
 [[%ASM]]
-[[]]
+[[%LowLevel]]
+[[%Computer Science]]
 }
 
 
