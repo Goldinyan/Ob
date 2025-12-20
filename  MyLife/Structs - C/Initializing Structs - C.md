@@ -1,6 +1,6 @@
 Date: 2025-12-20
 Tags: {
-#F
+#W
 [[%C]]
 [[%Structs]]
 [[%Computer Science]]

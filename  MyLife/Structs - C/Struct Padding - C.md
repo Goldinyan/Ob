@@ -1,4 +1,4 @@
-Date: 2025-12-17
+Date: 2025-12-20
 Tags: {
 #W
 [[%C]]
@@ -7,8 +7,7 @@ Tags: {
 }
 
 
-# Structs - C
-
+# Struct Padding - C
 
 
 
@@ -70,10 +69,6 @@ typedef struct y {
 	char f // 1 B
 }
 ```
-
-
-
-
 
 
 

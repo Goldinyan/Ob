@@ -1,6 +1,6 @@
 Date: 2025-12-20
 Tags: {
-#F
+#W
 [[%C]]
 [[%Basics]]
 [[%Computer Science]]
@@ -53,7 +53,30 @@ double d = 2.31233;
 ```
 
 
+## Arrays
 
+```c
+int arr[3] = {1, 2, 3};
+```
+- Access with indices: `arr[0]`.  
+- `char[]` is often used for strings.
+
+
+### constants
+
+```c 
+int main(){
+	int x = 5;
+	x = 10; // this is OK
+}
+```
+
+```c
+int main(){
+	const int x = 5;
+	x = 10; // ERROR
+}
+```
 
 
 # References

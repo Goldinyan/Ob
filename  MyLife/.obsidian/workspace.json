@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee7ad4f9daad786",
+        "id": "a9372409106ccd3e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a21a8e5322483f",
+            "id": "ef0367a222eed733",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "2fba911c89d3adfd",
+            "id": "38b41ba4d3f87ca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types - C.md",
+                "file": "Basics - C/Types - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,81 +54,9 @@
               "icon": "lucide-file",
               "title": "Types - C"
             }
-          },
-          {
-            "id": "8e048144e037d791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structs - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structs - C"
-            }
-          },
-          {
-            "id": "905bc395add08c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessing & Updating Structs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Accessing & Updating Structs"
-            }
-          },
-          {
-            "id": "d4905a17930d4e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Initializing Structs - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Initializing Structs - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,16 +224,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e048144e037d791",
+  "active": "38b41ba4d3f87ca9",
   "lastOpenFiles": [
-    "Initializing Structs - C.md",
+    "200 CS/Languages/C/Basics - C.md",
+    "Enums - C.md",
+    "Basics - C/Types - C.md",
+    "000 Index/Tags/%Enums.md",
+    "Basics - C",
     "Structs - C.md",
-    "Accessing & Updating Structs.md",
-    "Basic Structs - C.md",
-    "Types - C.md",
+    "Structs - C/Initializing Structs - C.md",
+    "Structs - C/Accessing & Updating Structs.md",
+    "Structs - C/Struct Padding - C.md",
+    "Structs - C/Basic Structs - C.md",
     "000 Index/Tags/%Structs.md",
     "Structs - C",
-    "200 CS/Languages/C/Basics - C.md",
     "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Multiplayer game chess?.md",
     "200 CS/CS Projects/Phase 6 learner with firebase auth.md",
@@ -325,15 +257,11 @@
     "Programm efficiently.md",
     "How is data stored in memory.md",
     "Building own Garbage Collector.md",
-    "Programming in lower level langauge.md",
-    "200 CS/Compiling.md",
     "200 CS/Hardware",
-    "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
     "200 CS/Languages",
     "200 CS/Languages/ASM",
     "200 CS/Languages/C",
     "200 CS/Languages/C/Memory Managment - C",
-    "900 Movies",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

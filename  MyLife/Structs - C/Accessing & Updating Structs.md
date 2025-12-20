@@ -1,5 +1,10 @@
-Date: 2025-12-20
-Tags: {}
+Date: 2025-12-17
+Tags: {
+#W
+[[%C]]
+[[%Computer Science]]
+[[%Structs]]
+}
 
 
 # Accessing & Updating Structs & TypeDef

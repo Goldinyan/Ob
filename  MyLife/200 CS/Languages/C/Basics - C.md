@@ -57,13 +57,7 @@ printf("Address of x = %p\n", (void*)&x);
 
 ---
 
-## Arrays
 
-```c
-int arr[3] = {1, 2, 3};
-```
-- Access with indices: `arr[0]`.  
-- `char[]` is often used for strings.
 
 ---
 
@@ -194,22 +188,6 @@ y = ++x; // x is added before and then
 
 ```c
 printf("Hello, %s. You're %d years old. \n", name, age)
-```
-
-### constants
-
-```c 
-int main(){
-	int x = 5;
-	x = 10; // this is OK
-}
-```
-
-```c
-int main(){
-	const int x = 5;
-	x = 10; // ERROR
-}
 ```
 
 # References
