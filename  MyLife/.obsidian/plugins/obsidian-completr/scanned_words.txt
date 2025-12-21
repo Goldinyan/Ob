@@ -99,6 +99,8 @@ Playlist
 Person
 PE
 Password
+Purpose
+Prefix
 IHDR
 IDATx
 IC
@@ -411,6 +413,7 @@ Verzweiflung
 Versuch
 Vielleicht
 Vim
+Variable
 KPgM
 KO
 Krbm
@@ -629,6 +632,8 @@ Each
 ELF
 Editing
 Engineering
+Emojis
+Elemente
 cj
 cK
 cz
@@ -788,6 +793,8 @@ crackme
 checking
 crackmes
 companion
+clutter
+compiled
 pt
 pD
 ph
@@ -938,6 +945,9 @@ patterns
 patch
 plain
 precisely
+printable
+prepare
+printed
 kF
 kXl
 kXlm
@@ -1220,6 +1230,9 @@ ungewiss
 unwichtig
 unsere
 useful
+unnötigen
+unless
+underlying
 WGN
 Wm
 Wl
@@ -1415,6 +1428,10 @@ CPU
 Capsulation
 Coordinate
 Create
+Command
+Common
+Comments
+Control
 LI
 LF
 LLN
@@ -1720,6 +1737,9 @@ Situation
 Schmidt
 Switch
 Strings
+Shows
+Scan
+Specify
 zS
 zX
 zR
@@ -1812,6 +1832,8 @@ OK
 Or
 Operators
 Operations
+Option
+Options
 am
 ad
 afj
@@ -2023,6 +2045,8 @@ aktuellen
 anfängliche
 ausgelöst
 acctual
+appears
+appear
 JV
 Jv
 JN
@@ -2148,6 +2172,7 @@ Fields
 Flowbite
 Finden
 Finding
+Function
 vHwc
 vE
 vA
@@ -2487,6 +2512,8 @@ Maler
 Means
 Matters
 Magic
+Minimum
+Machine
 hv
 hz
 have
@@ -2591,6 +2618,7 @@ habe
 hex
 hexadecimal
 headers
+happening
 lI
 lt
 ls
@@ -2715,6 +2743,10 @@ lower
 letztens
 legt
 letztlich
+locate
+leftover
+leftovers
+literal
 bM
 bS
 bs
@@ -3020,6 +3052,9 @@ machine
 manually
 modified
 macOS
+mache
+messages
+minimum
 do
 dK
 dQ
@@ -3195,6 +3230,7 @@ denkt
 desto
 dump
 dumps
+disassembly
 QS
 Qn
 QGu
@@ -3212,6 +3248,7 @@ Quellen
 Quellenkritik
 Quote
 Qoutes
+Quick
 yM
 yn
 yYv
@@ -3298,6 +3335,9 @@ overwhelmed
 obwohl
 orientierungslose
 offsets
+offset
+output
+opcodes
 ss
 sq
 sE
@@ -3626,6 +3666,15 @@ sentimental
 stets
 shown
 safely
+symbol
+spot
+sections
+skipped
+scanning
+stripped
+source
+structures
+symbols
 XZ
 Xs
 XI
@@ -4030,6 +4079,7 @@ nouns
 normaler
 nachdem
 näher
+noise
 jt
 jW
 jz
@@ -4053,6 +4103,7 @@ jetzt
 js
 jemals
 jedoch
+jede
 id
 in
 iB
@@ -4169,6 +4220,9 @@ instructions
 includes
 inspect
 identify
+ignoring
+included
+insight
 Gn
 Go
 Gs
@@ -4406,6 +4460,12 @@ funktionieren
 fremd
 fremder
 fortwährenden
+files
+fragments
+format
+filters
+filename
+functionality
 Hn
 HnZ
 HV
@@ -4492,6 +4552,9 @@ Have
 Haben
 Hopper
 Hex
+Helps
+Helpful
+Hardcoded
 xe
 xJ
 xys
@@ -4641,6 +4704,7 @@ tritt
 tiefer
 textual
 tables
+taugliche
 UU
 Uo
 Uc
@@ -4691,6 +4755,8 @@ Unmöglichkeit
 Umherirren
 Understanding
 Using
+UTF
+Usually
 DC
 DK
 DN
@@ -4791,6 +4857,7 @@ Daraus
 Denken
 Dump
 Debugging
+Debug
 eC
 eD
 eL
@@ -4975,6 +5042,15 @@ einsamer
 erst
 engineering
 encoded
+englische
+erweitere
+extracts
+explicitly
+enabling
+ensures
+encoding
+endian
+embedded
 BP
 Bz
 BVb
@@ -5070,6 +5146,7 @@ Book
 Bett
 Bedeutungen
 Bei
+Binary
 TN
 Tn
 TV
@@ -5260,6 +5337,8 @@ Reflexion
 Reverse
 Reversing
 Return
+Reference
+RE
 Überblick
 Überlieferung
 Übersicht

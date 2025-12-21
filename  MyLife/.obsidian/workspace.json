@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "5 - Step Plan"
             }
-          },
-          {
-            "id": "2bea205155db2d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "b28d4843c65c022f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hex Dump & Reverse Hex Dump.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hex Dump & Reverse Hex Dump"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bea205155db2d58",
+  "active": "2ed9315d06d66207",
   "lastOpenFiles": [
-    "Reverse Engineering/5 - Step Plan.md",
-    "Untitled.md",
     "Hex Dump & Reverse Hex Dump.md",
+    "Strings Command - RE.md",
+    "Reverse Engineering/5 - Step Plan.md",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
     "000 Index/Tags/%Binary.md",
