@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64555537497ac7ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Exkursion in die Philosophie - Edward Hopper"
-            }
-          },
-          {
             "id": "2ed9315d06d66207",
             "type": "leaf",
             "state": {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hex Dump & Reverse Hex Dump.md",
+                "file": "Reverse Engineering/5 - Step Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hex Dump & Reverse Hex Dump"
+              "title": "5 - Step Plan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,10 +226,15 @@
   },
   "active": "b28d4843c65c022f",
   "lastOpenFiles": [
-    "Reverse Engineering/5 - Step Plan.md",
     "Hex Dump & Reverse Hex Dump.md",
-    "Reverse Engineering",
+    "000 Index/Tags/%Reverse Engineering.md",
+    "Reverse Engineering/5 - Step Plan.md",
+    "000 Index/Tags/%UI.md",
+    "000 Index/Tags/%Binary.md",
+    "000 Index/Tags/%LowLevel.md",
+    "000 Index/Tags/%Cyber Security.md",
     "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
+    "Reverse Engineering",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
@@ -263,7 +244,6 @@
     "200 CS/Coding Things/Web UI Templates/Flowbite.md",
     "200 CS/Coding Things/Web UI Templates/Shadcn.md",
     "200 CS/Coding Things/Web UI Templates/Tailwind.md",
-    "%UI.md",
     "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
     "000 Index/Tags/%ShortStory.md",
     "750 Writing/English/Short Story/What makes a good Short Story?.md",
@@ -274,10 +254,6 @@
     "000 Index/Tags/%heliozentrische Weltbild.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "200 CS/Languages/C/Pointer - C",
-    "200 CS/Languages/C/Basics - C.md",
-    "000 Index/Tags/%Array.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-    "000 Index/Tags/%Functions.md",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
     "200 CS/CS Projects/Low Level",

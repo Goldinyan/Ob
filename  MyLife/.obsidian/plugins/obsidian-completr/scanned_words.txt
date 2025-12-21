@@ -97,6 +97,8 @@ Project
 Padding
 Playlist
 Person
+PE
+Password
 IHDR
 IDATx
 IC
@@ -175,6 +177,8 @@ Initializing
 Infrage
 Innehalten
 Individuen
+Inspecting
+Instruction
 rD
 rVS
 rZ
@@ -333,6 +337,10 @@ reflect
 richten
 romantischer
 resultiert
+representation
+region
+receive
+rebuild
 Vs
 VO
 VJ
@@ -402,6 +410,7 @@ Vorstellungen
 Verzweiflung
 Versuch
 Vielleicht
+Vim
 KPgM
 KO
 Krbm
@@ -616,6 +625,10 @@ Edward
 Ebene
 Einsseins
 Entfremdung
+Each
+ELF
+Editing
+Engineering
 cj
 cK
 cz
@@ -770,6 +783,11 @@ conflict
 creating
 contribute
 config
+converts
+crackme
+checking
+crackmes
+companion
 pt
 pD
 ph
@@ -914,6 +932,12 @@ plugin
 plugins
 philosophisches
 perfektes
+programm
+preview
+patterns
+patch
+plain
+precisely
 kF
 kXl
 kXlm
@@ -1195,6 +1219,7 @@ unklar
 ungewiss
 unwichtig
 unsere
+useful
 WGN
 Wm
 Wl
@@ -1389,6 +1414,7 @@ Cpu
 CPU
 Capsulation
 Coordinate
+Create
 LI
 LF
 LLN
@@ -1692,6 +1718,7 @@ Sinn
 Seite
 Situation
 Schmidt
+Switch
 zS
 zX
 zR
@@ -2118,6 +2145,7 @@ Format
 Fields
 Flowbite
 Finden
+Finding
 vHwc
 vE
 vA
@@ -2213,6 +2241,7 @@ völlig
 versucht
 verdrängen
 verlieren
+view
 Aw
 ArX
 Ar
@@ -2354,6 +2383,7 @@ Avoid
 Augenblick
 Aufmerksamkeit
 Aufhebung
+ASCII
 MV
 MM
 Ms
@@ -2452,6 +2482,9 @@ Matchmaking
 Migration
 Maintain
 Maler
+Means
+Matters
+Magic
 hv
 hz
 have
@@ -2553,6 +2586,9 @@ hab
 hatte
 hilft
 habe
+hex
+hexadecimal
+headers
 lI
 lt
 ls
@@ -2829,6 +2865,8 @@ breitet
 bedeutende
 bestätigt
 bereit
+binary
+binaries
 mm
 ms
 mO
@@ -2976,6 +3014,10 @@ mag
 momentan
 meiner
 möglich
+machine
+manually
+modified
+macOS
 do
 dK
 dQ
@@ -3149,6 +3191,8 @@ denen
 daraus
 denkt
 desto
+dump
+dumps
 QS
 Qn
 QGu
@@ -3251,6 +3295,7 @@ ordering
 overwhelmed
 obwohl
 orientierungslose
+offsets
 ss
 sq
 sE
@@ -3577,6 +3622,8 @@ sonst
 scheint
 sentimental
 stets
+shown
+safely
 XZ
 Xs
 XI
@@ -4115,6 +4162,11 @@ involves
 impact
 internal
 import
+inside
+instructions
+includes
+inspect
+identify
 Gn
 Go
 Gs
@@ -4208,6 +4260,7 @@ Game
 Glück
 Ganzes
 Gesellschaft
+Ghidra
 fW
 fvB
 fnrA
@@ -4436,6 +4489,7 @@ Here
 Have
 Haben
 Hopper
+Hex
 xe
 xJ
 xys
@@ -4583,6 +4637,8 @@ trough
 tailwindcss
 tritt
 tiefer
+textual
+tables
 UU
 Uo
 Uc
@@ -4631,6 +4687,8 @@ Updating
 Update
 Unmöglichkeit
 Umherirren
+Understanding
+Using
 DC
 DK
 DN
@@ -4729,6 +4787,8 @@ Danach
 Davor
 Daraus
 Denken
+Dump
+Debugging
 eC
 eD
 eL
@@ -4911,6 +4971,8 @@ entnommen
 enttarnt
 einsamer
 erst
+engineering
+encoded
 BP
 Bz
 BVb
@@ -5193,6 +5255,9 @@ Realität
 Rand
 Ratlosigkeit
 Reflexion
+Reverse
+Reversing
+Return
 Überblick
 Überlieferung
 Übersicht
