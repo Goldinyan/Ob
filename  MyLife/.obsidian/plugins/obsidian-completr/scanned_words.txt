@@ -101,6 +101,7 @@ PE
 Password
 Purpose
 Prefix
+Prints
 IHDR
 IDATx
 IC
@@ -181,6 +182,9 @@ Innehalten
 Individuen
 Inspecting
 Instruction
+Information
+Identify
+Inspect
 rD
 rVS
 rZ
@@ -343,6 +347,8 @@ representation
 region
 receive
 rebuild
+relocation
+remain
 Vs
 VO
 VJ
@@ -634,6 +640,10 @@ Editing
 Engineering
 Emojis
 Elemente
+Engineers
+Entire
+Entries
+Examine
 cj
 cK
 cz
@@ -796,6 +806,11 @@ companion
 clutter
 compiled
 commands
+codes
+certain
+cpu
+common
+comparison
 pt
 pD
 ph
@@ -951,6 +966,9 @@ prepare
 printed
 pager
 produce
+programs
+practical
+production
 kF
 kXl
 kXlm
@@ -1343,6 +1361,7 @@ Welches
 Würden
 Weise
 Wahrheit
+Works
 Cbc
 Cr
 Ck
@@ -1438,6 +1457,8 @@ Common
 Comments
 Control
 Commands
+Combines
+Combine
 LI
 LF
 LLN
@@ -1515,6 +1536,7 @@ Lust
 Lebens
 Lebenssituation
 Lüge
+Lists
 qV
 qT
 qH
@@ -1747,6 +1769,11 @@ Strings
 Shows
 Scan
 Specify
+Static
+Source
+Symbols
+Sections
+Stripped
 zS
 zX
 zR
@@ -2056,6 +2083,11 @@ acctual
 appears
 appear
 arrow
+asm
+allows
+areas
+analyzing
+almost
 JV
 Jv
 JN
@@ -2182,6 +2214,7 @@ Flowbite
 Finden
 Finding
 Function
+File
 vHwc
 vE
 vA
@@ -2420,6 +2453,7 @@ Augenblick
 Aufmerksamkeit
 Aufhebung
 ASCII
+Analysis
 MV
 MM
 Ms
@@ -2523,6 +2557,7 @@ Matters
 Magic
 Minimum
 Machine
+Mach
 hv
 hz
 have
@@ -2756,6 +2791,11 @@ locate
 leftover
 leftovers
 literal
+linking
+libraries
+linked
+linker
+labels
 bM
 bS
 bs
@@ -3064,6 +3104,8 @@ macOS
 mache
 messages
 minimum
+meta
+mean
 do
 dK
 dQ
@@ -3240,6 +3282,10 @@ desto
 dump
 dumps
 disassembly
+display
+dynamic
+dynamically
+debugging
 QS
 Qn
 QGu
@@ -3688,6 +3734,12 @@ sends
 scroll
 scrollable
 searchable
+software
+structured
+specific
+section
+shared
+sizes
 XZ
 Xs
 XI
@@ -3848,6 +3900,7 @@ wohl
 worauf
 weggelegte
 wem
+wrote
 gv
 gu
 gP
@@ -4236,6 +4289,11 @@ identify
 ignoring
 included
 insight
+infer
+inspection
+interleaved
+including
+imported
 Gn
 Go
 Gs
@@ -4480,6 +4538,7 @@ filters
 filename
 functionality
 flood
+flags
 Hn
 HnZ
 HV
@@ -4719,6 +4778,8 @@ tiefer
 textual
 tables
 taugliche
+table
+tools
 UU
 Uo
 Uc
@@ -4771,6 +4832,7 @@ Understanding
 Using
 UTF
 Usually
+Usage
 DC
 DK
 DN
@@ -4872,6 +4934,10 @@ Denken
 Dump
 Debugging
 Debug
+Disassemble
+Displays
+Dynamic
+Disassembles
 eC
 eD
 eL
@@ -5066,6 +5132,14 @@ encoding
 endian
 embedded
 extracted
+executables
+entries
+essential
+executable
+examining
+entry
+examination
+exported
 BP
 Bz
 BVb
@@ -5162,6 +5236,7 @@ Bett
 Bedeutungen
 Bei
 Binary
+Binaries
 TN
 Tn
 TV
@@ -5258,6 +5333,7 @@ Tie
 Tailwind
 Traum
 Trümmern
+Typical
 üb
 über
 überführt
@@ -5354,6 +5430,8 @@ Reversing
 Return
 Reference
 RE
+Relocation
+Reveals
 Überblick
 Überlieferung
 Übersicht

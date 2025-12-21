@@ -1,6 +1,8 @@
 Date: 2025-12-21
 Tags: {
 #F 
+[[%Command]]
+[[%Terminal]]
 [[%Reverse Engineering]]
 [[%Cyber Security]]
 [[%Binary]]

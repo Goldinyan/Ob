@@ -1,7 +1,7 @@
 Date: 2025-12-21
 Tags: {
 #N
-[[%Commands]]
+[[%Command]]
 [[%Terminal]]
 }
 

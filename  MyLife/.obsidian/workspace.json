@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/5 - Step Plan.md",
+                "file": "objdump Command - RE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 - Step Plan"
+              "title": "objdump Command - RE"
             }
           }
         ],
@@ -226,12 +226,13 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
-    "Terminal Commands/Overall usefull Commands.md",
-    "000 Index/Tags/%Commands.md",
-    "Reverse Engineering/5 - Step Plan.md",
-    "Terminal Commands",
-    "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
+    "Hex Dump & Reverse Hex Dump.md",
+    "objdump Command - RE.md",
+    "Reverse Engineering/5 - Step Plan.md",
+    "000 Index/Tags/%Command.md",
+    "Terminal Commands/Overall usefull Commands.md",
+    "Terminal Commands",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
     "000 Index/Tags/%Binary.md",
@@ -253,7 +254,6 @@
     "750 Writing/English/Short Story/What makes a good Short Story?.md",
     "000 Index/Tags/%English.md",
     "600 Debate/Politics/Das Haus der Migration.md",
-    "000 Index/Tags/%Migration.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
