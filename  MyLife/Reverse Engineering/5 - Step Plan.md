@@ -14,4 +14,6 @@ If this doesn't get you enough we can do the next step
 The art is taking the programm you have questions about and going deep into the code, going into the binary and asm to figure out what it should do.
 
 For this we need a software which allows us to see and use the assembly code, and understand what the machine instructions are, what did the cpu get told to do?
-We can do this by doing 
+We can do this by doing [[objdump Command - RE]], which gives us every machine instruction byte by byte, this of course isn't really human readable, but it would be possible.
+It gives us the ASM Instructions for the cpu
+Instead we will 
