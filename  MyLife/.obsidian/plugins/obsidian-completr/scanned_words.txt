@@ -185,6 +185,7 @@ Instruction
 Information
 Identify
 Inspect
+Instructions
 rD
 rVS
 rZ
