@@ -1,6 +1,5 @@
 [
   "calendar",
-  "obsidian-tasks-plugin",
   "templater-obsidian",
   "file-explorer-note-count",
   "code-styler",
@@ -8,10 +7,10 @@
   "cmdr",
   "obsidian-latex-suite",
   "obsidian-completr",
-  "execute-code",
   "ninja-cursor",
   "quick-latex",
-  "chem",
   "obsidian-git",
-  "ink"
+  "ink",
+  "auto-correct-capitals",
+  "vim-marker-sharpener"
 ]

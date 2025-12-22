@@ -227,24 +227,10 @@
             "id": "9b001cd937f46dd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basics - C"
+              "title": "New tab"
             }
           }
         ],

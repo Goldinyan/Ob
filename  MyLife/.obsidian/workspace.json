@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website Inspiration.md",
+                "file": "800 Other/Packliste.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Website Inspiration"
+              "title": "Packliste"
             }
           },
           {
@@ -250,8 +250,8 @@
   },
   "active": "e53e2b323ca52f11",
   "lastOpenFiles": [
-    "Reverse Engineering/5 - Step Plan.md",
     "Website Inspiration.md",
+    "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Compiling.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "objdump Command - RE.md",
