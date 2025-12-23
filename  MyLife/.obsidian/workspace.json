@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "800 Other/Packliste.md",
+                "file": "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packliste"
+              "title": "Types & Declaration - C"
             }
           },
           {
@@ -250,6 +250,7 @@
   },
   "active": "e53e2b323ca52f11",
   "lastOpenFiles": [
+    "800 Other/Packliste.md",
     "Website Inspiration.md",
     "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Compiling.md",
@@ -277,7 +278,6 @@
     "200 CS/Coding Things/Web UI Templates/Shadcn.md",
     "200 CS/Coding Things/Web UI Templates/Tailwind.md",
     "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
-    "000 Index/Tags/%ShortStory.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
