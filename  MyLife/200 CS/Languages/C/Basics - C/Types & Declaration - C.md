@@ -47,7 +47,7 @@ char *str = "Hello";
   ```
 
 - **double**
-	Double-Precision floating point number (8 bytes)
+  Double-Precision floating point number (8 bytes)
 ```c
 double d = 2.31233;
 ```
@@ -61,7 +61,25 @@ int arr[3] = {1, 2, 3};
 - Access with indices: `arr[0]`.  
 - `char[]` is often used for strings.
 
+### boolean
 
+```c
+#include <stdbool.h>
+
+bool is_programming_cool = true;
+
+// 0 is false, evrtything else is true.
+// If printing it will return a number not a bool. 
+//so you have to print it with the %d Format Specifier 
+
+printf("%d\n", is_progamming_cool);
+
+//examples
+
+printf("%d", 10 == 10); // Returns 1 (true), because 10 is equal to 10  
+printf("%d", 10 == 15); // Returns 0 (false), because 10 is not equal to 15  
+printf("%d", 5 == 55);  // Returns 0 (false) because 5 is not equal to 55
+```
 ### constants
 
 ```c 
