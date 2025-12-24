@@ -96,10 +96,35 @@ This is watching the programm run life, observing its functionality in real time
 For this we will use the GDB, the gnu debugger, with this we can run programms and then set breakpoints which will tell the cpu: Stop right there what youre doing i have questions to ask you.
 
 The important quesiton is when should i stop the programm to ask my questions.
-In this case we want to get the password and we know that it will iterate over it and check with the user- input so we can stop right before the iteration
+In this case we want to get the password and we know that it will iterate over it and check with the user- input so we can stop right before the iteration. The value of password has to be on the stack at this time so if we print the whole stack with help of gdb we will get the password in this example we have:
 
+```C
+// some stuff
+do{
+	if(7 < sVar3) break; //sVar3 is possibly a counter
+	//so the password has a length of 8
+	
+	// then iterating over the created password and our input
+}
+```
 
+When printing the stack at this break point, we got:
 
+```c
+─────────────────────[ STACK ]──────────────────────
+
+0x00007ffffffffdc0│+0x00: "00sGo4M0passwordenter the right password"
+
+0x00007ffffffffdc8│+0x08: "passwordenter the right password"
+
+0x00007ffffffffdd0│+0x10: "enter the right password"
+
+0x00007ffffffffdd8│+0x18: "e right password"
+
+0x00007ffffffffde0│+0x20: "password"
+
+────────────────────────────────────────────────────
+```
 
 
 
