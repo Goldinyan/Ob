@@ -15,4 +15,22 @@ The art is taking the programm you have questions about and going deep into the 
 
 For this we need a software which allows us to see and use the assembly code, and understand what the machine instructions are, what did the cpu get told to do?
 We can do this by doing [[objdump Command - RE]], which gives us every machine instruction byte by byte, this of course isn't really human readable, but it would be possible.
-It gives us the ASM Instructions for the cpu, when something is compiled we can only get the binary which can be ran, then we are only left with the assembly. Now the RE has to infer the intention out of the assembly and think what could be the C Instruction. This view is pretty bad, luckily software like Ghidra give us a a very clean graph view of all the instructions. They help us with lifting the hard-to-read asm up and showing us Pseudo-C, a representation on what the C code could look like from the asm.
+It gives us the ASM Instructions for the cpu, when something is compiled we can only get the binary which can be ran, then we are only left with the assembly. Now the RE has to infer the intention out of the assembly and think what could be the C Instruction. This view is pretty bad, luckily software like Ghidra give us a a very clean graph view of all the instructions. They help us with lifting the hard-to-read asm up and showing us Pseudo-C, a representation on what the C code could look like from the asm. This looks a little odd, but when actually trying to understand its acctually pretty easy.
+
+```c
+float _getAverage(long param_1,int param_2)
+
+{
+  undefined4 local_14;
+  undefined4 local_10;
+  
+  local_10 = 0;
+  for (; local_14 < param_2; local_14 = local_14 + 1) {
+    local_10 = local_10 + *(int *)(param_1 + (long)local_14 * 4);
+  }
+  return (float)local_10 / (float)param_2;
+}
+```
+
+This function looks very odd, but with help of the name `getAverage`and a little help we can turn this into its original form:
+
