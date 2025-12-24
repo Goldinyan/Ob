@@ -53,3 +53,40 @@ float _getAverage(long param_1, int param_2)
 
 The name gives us a hint, so it would make sense to, at the end, divide the sum by the length of the array we want the average of. That means `param_2`is going to be the length. The part where we add something to sum looks tricky but isn' t really. First `param_1`isn't a long, but Ghidra only sees a pointer, so he choose long to fit everything in it.
 
+```c
+// dekompiliert:
+sum = sum + *(int *)(param_1 + (long)i * 4);
+
+// 1) param_1 ist eigentlich ein int*-Pointer
+int *arr = (int *)param_1;
+
+// 2) (long)i * 4 = Byte-Offset für ein int (4 Bytes)
+int *element_ptr = arr + i;   // Pointerarithmetik macht *4 automatisch
+
+// 3) *(...) dereferenziert → arr[i]
+int value = element_ptr[i - i]; // äquivalent zu *element_ptr
+
+// oder einfach:
+value = arr[i];
+```
+
+So this just becomes:
+
+```c
+float _getAverage(int[] arr, int length)
+
+{
+  int i; 
+  int sum;
+  
+  sum = 0;
+  for (i = 0; i < length; i++) {
+    sum = sum + arr[i];
+  }
+  return (float) sum / length;
+}
+```
+
+Easy, right?
+
+
