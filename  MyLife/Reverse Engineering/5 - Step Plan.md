@@ -37,7 +37,7 @@ This function looks very odd, but with help of the name `getAverage`and a little
 We can see that we are adding `local_10`up and then divide it so we can convert it into the name sum, `undefined4`is just an int,  and `local_14`isn't initialised but used in the for loop, so we can convert it to `i`, that gives us:
 
 ```c
-float _getAverage(long param_1,int param_2)
+float _getAverage(long param_1, int param_2)
 
 {
   int i; 
@@ -51,4 +51,5 @@ float _getAverage(long param_1,int param_2)
 }
 ```
 
-The name gives us a hint, so it would make sense to, at the end, divide the sum by the length of the array w
+The name gives us a hint, so it would make sense to, at the end, divide the sum by the length of the array we want the average of. That means `param_2`is going to be the length. The part where we add something to sum looks tricky but isn' t really. First `param_1`isn't a long, but Ghidra only sees a pointer, so he choose long to fit everything in it.
+
