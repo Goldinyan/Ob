@@ -130,7 +130,7 @@ Out of this we can get the password: `00sGo4M0`
 
 # Symbolic Execution
 
-Sometimes a programm is harder to cr
+Sometimes a programm is harder to crack then with static or dynamic analysis, so for this we use Symbolic Execution, which is this amazing concept in RE, where we effectively turn a programm into a math. problem and then use a satisfiability solver to see if a programm execution can or cannot happen 
 
 
 

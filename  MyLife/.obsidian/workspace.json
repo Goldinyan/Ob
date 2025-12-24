@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "6c8f9c54f9a27643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hex Dump & Reverse Hex Dump.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hex Dump & Reverse Hex Dump"
+            }
+          },
+          {
             "id": "c92a3ca7ad28c4a7",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 486.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -249,17 +272,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e53e2b323ca52f11",
+  "active": "6c8f9c54f9a27643",
   "lastOpenFiles": [
-    "Terminal Commands/Overall usefull Commands.md",
+    "GDB Command - RE.md",
+    "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
+    "Terminal Commands/Overall usefull Commands.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "800 Other/Packliste.md",
     "Website Inspiration.md",
     "200 CS/Compiling.md",
     "objdump Command - RE.md",
-    "Strings Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
     "000 Index/Tags/%Command.md",
     "Terminal Commands",
@@ -278,7 +302,6 @@
     "200 CS/Coding Things/Web UI Templates/Daisy.md",
     "200 CS/Coding Things/Web UI Templates/Flowbite.md",
     "200 CS/Coding Things/Web UI Templates/Shadcn.md",
-    "200 CS/Coding Things/Web UI Templates/Tailwind.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",

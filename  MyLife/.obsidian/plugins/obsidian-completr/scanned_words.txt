@@ -187,6 +187,7 @@ Identify
 Inspect
 Instructions
 IDA
+Installation
 rD
 rVS
 rZ
@@ -352,6 +353,9 @@ rebuild
 relocation
 remain
 ran
+rsp
+restore
+radare
 Vs
 VO
 VJ
@@ -423,6 +427,8 @@ Versuch
 Vielleicht
 Vim
 Variable
+Variante
+Vergleichstabelle
 KPgM
 KO
 Krbm
@@ -814,6 +820,9 @@ certain
 cpu
 common
 comparison
+clone
+continue
+canary
 pt
 pD
 ph
@@ -972,6 +981,11 @@ produce
 programs
 practical
 production
+praktische
+path
+py
+print
+pwndbg
 kF
 kXl
 kXlm
@@ -1065,6 +1079,7 @@ kleben
 klare
 konnte
 keys
+kompakte
 Zw
 Zy
 ZL
@@ -1108,6 +1123,7 @@ Zusammenfasse
 Zero
 Zeichnet
 Zusammensein
+Zeigt
 Nn
 Nk
 No
@@ -1181,6 +1197,8 @@ Nachbarn
 Nachhinein
 Nebel
 Nachdenken
+Notizen
+Nächste
 uR
 uN
 ug
@@ -1365,6 +1383,9 @@ Würden
 Weise
 Wahrheit
 Works
+Workflows
+Weiterlaufen
+Watchpoint
 Cbc
 Cr
 Ck
@@ -1462,6 +1483,8 @@ Control
 Commands
 Combines
 Combine
+Canary
+Callstack
 LI
 LF
 LLN
@@ -1540,6 +1563,7 @@ Lebens
 Lebenssituation
 Lüge
 Lists
+LLDB
 qV
 qT
 qH
@@ -1778,6 +1802,13 @@ Symbols
 Sections
 Stripped
 Space
+Stil
+Stack
+Startet
+Sprung
+Speicherbereiche
+Stackframe
+Stop
 zS
 zX
 zR
@@ -2092,6 +2123,8 @@ allows
 areas
 analyzing
 almost
+addr
+ab
 JV
 Jv
 JN
@@ -2219,6 +2252,7 @@ Finden
 Finding
 Function
 File
+Fokus
 vHwc
 vE
 vA
@@ -2315,6 +2349,10 @@ versucht
 verdrängen
 verlieren
 view
+verlassen
+visualisiert
+vmmap
+var
 Aw
 ArX
 Ar
@@ -2458,6 +2496,7 @@ Aufmerksamkeit
 Aufhebung
 ASCII
 Analysis
+Aktueller
 MV
 MM
 Ms
@@ -2667,6 +2706,7 @@ hex
 hexadecimal
 headers
 happening
+hexdump
 lI
 lt
 ls
@@ -2955,6 +2995,9 @@ bestätigt
 bereit
 binary
 binaries
+bash
+backtrace
+bt
 mm
 ms
 mO
@@ -3291,6 +3334,10 @@ display
 dynamic
 dynamically
 debugging
+dumpen
+dereference
+disas
+disassemblieren
 QS
 Qn
 QGu
@@ -3747,6 +3794,9 @@ section
 shared
 sizes
 site
+speziell
+setzen
+springt
 XZ
 Xs
 XI
@@ -3908,6 +3958,8 @@ worauf
 weggelegte
 wem
 wrote
+wordweise
+watch
 gv
 gu
 gP
@@ -4057,6 +4109,12 @@ gekommen
 geschehen
 gelingt
 give
+gleichen
+gef
+git
+gdbinit
+gdb
+gx
 nf
 nnvi
 nC
@@ -4396,6 +4454,9 @@ Glück
 Ganzes
 Gesellschaft
 Ghidra
+GDB
+GEF
+Geladene
 fW
 fvB
 fnrA
@@ -4547,6 +4608,10 @@ filename
 functionality
 flood
 flags
+func
+finish
+functions
+frame
 Hn
 HnZ
 HV
@@ -4636,6 +4701,7 @@ Hex
 Helps
 Helpful
 Hardcoded
+Hexdump
 xe
 xJ
 xys
@@ -4788,6 +4854,8 @@ tables
 taugliche
 table
 tools
+typischen
+telescope
 UU
 Uo
 Uc
@@ -4946,6 +5014,7 @@ Disassemble
 Displays
 Dynamic
 Disassembles
+Disassembly
 eC
 eD
 eL
@@ -5148,6 +5217,7 @@ examining
 entry
 examination
 exported
+echo
 BP
 Bz
 BVb
@@ -5245,6 +5315,10 @@ Bedeutungen
 Bei
 Binary
 Binaries
+Befehle
+Breakpoint
+Beenden
+Byteweise
 TN
 Tn
 TV
@@ -5440,6 +5514,7 @@ Reference
 RE
 Relocation
 Reveals
+Register
 Überblick
 Überlieferung
 Übersicht
