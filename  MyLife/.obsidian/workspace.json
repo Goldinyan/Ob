@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+                "file": "200 CS/Languages/C/Basics - C/Enums - C.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math & Format Specifier - C"
+              "title": "Enums - C"
             }
           }
         ],
@@ -274,9 +274,9 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Compiling.md",
     "GDB Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
