@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+                "file": "200 CS/Compiling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math & Format Specifier - C"
+              "title": "Compiling"
+            }
+          },
+          {
+            "id": "05741dfbb89d0bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debugging.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Debugging"
             }
           }
         ],
@@ -274,12 +298,13 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "Debugging.md",
+    "200 CS/Compiling.md",
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
-    "200 CS/Compiling.md",
     "GDB Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
@@ -301,7 +326,6 @@
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
     "100 Obsidian/Obsidian Setup.md",
-    "200 CS/Coding Things/Web UI Templates/Daisy.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",

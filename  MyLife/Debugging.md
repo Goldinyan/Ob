@@ -1,0 +1,4 @@
+lldb ./main
+
+run
+
