@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
+                "file": "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Structs - C"
+              "title": "Accessing & Updating Structs"
             }
           },
           {
@@ -298,6 +298,7 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Compiling.md",
@@ -323,7 +324,6 @@
     "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
     "Reverse Engineering",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
-    "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
     "100 Obsidian/Obsidian Setup.md",
     "200 CS/Languages/C/Pointer - C",
