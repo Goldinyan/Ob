@@ -188,6 +188,7 @@ Inspect
 Instructions
 IDA
 Installation
+Interaktiv
 rD
 rVS
 rZ
@@ -1199,6 +1200,7 @@ Nebel
 Nachdenken
 Notizen
 Nächste
+Nutze
 uR
 uN
 ug
@@ -1485,6 +1487,7 @@ Combines
 Combine
 Canary
 Callstack
+Checks
 LI
 LF
 LLN
@@ -1809,6 +1812,7 @@ Sprung
 Speicherbereiche
 Stackframe
 Stop
+Shortcuts
 zS
 zX
 zR
@@ -1859,6 +1863,9 @@ zurechtkommen
 zugleich
 zurückgeworfen
 zuwendet
+zc
+za
+zM
 OU
 OL
 Oq
@@ -1904,6 +1911,7 @@ Operations
 Option
 Options
 Overall
+Overflow
 am
 ad
 afj
@@ -2841,6 +2849,8 @@ linked
 linker
 labels
 luckily
+lldb
+laden
 bM
 bS
 bs
@@ -3797,6 +3807,7 @@ site
 speziell
 setzen
 springt
+speichern
 XZ
 Xs
 XI
@@ -4856,6 +4867,7 @@ table
 tools
 typischen
 telescope
+togglen
 UU
 Uo
 Uc
@@ -5416,6 +5428,7 @@ Tailwind
 Traum
 Trümmern
 Typical
+Tipps
 üb
 über
 überführt

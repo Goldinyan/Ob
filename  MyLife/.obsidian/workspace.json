@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDB Command - RE.md",
+                "file": "200 CS/Usefull Stuff/NVCHAD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GDB Command - RE"
+              "title": "NVCHAD"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,19 +320,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "585064b7187dbb6e",
+  "active": "6c8f9c54f9a27643",
   "lastOpenFiles": [
-    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
+    "200 CS/Usefull Stuff/NVIM.md",
+    "GDB Command - RE.md",
+    "Debugging.md",
     "Template C Sturcture.md",
+    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Compiling.md",
-    "Debugging.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
-    "GDB Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
@@ -349,7 +350,6 @@
     "000 Index/Tags/%Cyber Security.md",
     "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
     "Reverse Engineering",
-    "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
