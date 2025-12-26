@@ -14,6 +14,8 @@ Tags: {
 - zM → alles schließen
 - zR → alles öffnen
 
+<leader>fw -> suchen nach etwas
+
 strg + n -> file tree opens
 
 strg + h -> back to file tree when in file 
