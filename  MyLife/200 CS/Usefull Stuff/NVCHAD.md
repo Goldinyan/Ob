@@ -8,6 +8,11 @@ Tags: {
 
 # NVCHAD
 
+- zc → fold schließen
+- zo → fold öffnen
+- za → fold togglen
+- zM → alles schließen
+- zR → alles öffnen
 
 strg + n -> file tree opens
 

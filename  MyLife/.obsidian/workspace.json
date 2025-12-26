@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-                "mode": "preview",
+                "file": "200 CS/Usefull Stuff/NVCHAD.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math & Format Specifier - C"
+              "title": "NVCHAD"
             }
           }
         ],
@@ -274,8 +274,8 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
-    "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+    "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "200 CS/Compiling.md",
