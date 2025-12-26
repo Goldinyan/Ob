@@ -246,9 +246,33 @@
               "icon": "lucide-file",
               "title": "Accessing & Updating Structs"
             }
+          },
+          {
+            "id": "135ace7d0d726098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -394,10 +418,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b001cd937f46dd4",
+  "active": "135ace7d0d726098",
   "lastOpenFiles": [
-    "Kurzgeschichte Deutsch.md",
+    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "Untitled.md",
+    "Kurzgeschichte Deutsch.md",
     "200 CS/CS Projects/C Projects.md",
     "Democracy is imperfect.md",
     "750 Writing/German/William Wahl.md",
@@ -421,7 +446,6 @@
     "000 Index/Tags/%History.md",
     "600 Debate/Politics/Die Art des Verbietens.md",
     "000 Index/Tags/%SocialMedia.md",
-    "000 Index/Tags/%Practice.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
