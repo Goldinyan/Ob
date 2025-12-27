@@ -47,17 +47,16 @@ Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenha
 ## Fähigkeiten
 
 Überraschender Kämpfer
-Er ist ein Sack. Niemand erwartet, dass der Sack plötzlich zuschlägt.  
-Er kann sich zusammenrollen, tarnen, irgendwo hängen und dann BOOM. NIMM DAS
+Er ist ein Sack. Niemand erwartet dass der Sack plötzlich zuschlägt.  
+Er kann sich zusammenrollen, irgendwo hängen und dann BOOM. NIMM DAS
 
  ## Magischer „Inventar“-Trickster
  
 Er kann Dinge aus sich herausziehen, die thematisch passen:
 - Seile  
-- Kleinkram  
 - Süßigkeiten  
 - Kleine Tiere  
-- Schneebälle  
+- Schneebälle  !!!!!
 - Ein Mini-Weihnachtsbaum lol
 - Taschenlampe
 Aber muss funktionelle Sachen mit logischen Erklärungen schildern.
@@ -71,7 +70,7 @@ Er lebt schon sehr lange und war im Kontakt mit vielen Leuten. Außerdem kann er
 
 ## Attribute
 
-
+BALD
 
 
 
