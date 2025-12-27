@@ -9,7 +9,11 @@ What others do is a principle *controlling the pivot*:
 
 Moving the goalposts a lot in conversations, ones a claim is knocked down, he treats to a weaker claim position. If you ever feel like you argue in circles with someone, thats why, because you let them pivot from one point to the next without actually closing any topic. 
 This never ends.
-What you can do, is pressing them, to admit when they're giving up ground. This forces the other to either argue the
+What you can do, is pressing them, to admit when they're giving up ground. This forces the other to either, argue the point or give up the point.
+Another good idea is rattling of facts, making the points super tangible and concrete, because you're not just arguing about pure principles. You are actually backing your point up with examples.
+
+How can we, you and I, develop the ability to always have a counterargument on hand?
+In shows like Sorrunded, the person knows his claims and can prepare, but we can do something else to prepare for political discussions, which we can anytime and anywhere 
 
 
 # References
