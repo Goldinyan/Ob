@@ -1390,6 +1390,7 @@ Works
 Workflows
 Weiterlaufen
 Watchpoint
+Wht
 Cbc
 Cr
 Ck
@@ -1569,6 +1570,7 @@ Lebenssituation
 Lüge
 Lists
 LLDB
+Leftist
 qV
 qT
 qH
@@ -2265,6 +2267,7 @@ Finding
 Function
 File
 Fokus
+Far
 vHwc
 vE
 vA
@@ -2926,7 +2929,6 @@ beacause
 banane
 button
 blocked
-balance
 bigger
 buffet
 book
@@ -4474,6 +4476,7 @@ Ghidra
 GDB
 GEF
 Geladene
+Guide
 fW
 fvB
 fnrA
@@ -5035,6 +5038,7 @@ Displays
 Dynamic
 Disassembles
 Disassembly
+Debating
 eC
 eD
 eL
