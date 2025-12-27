@@ -12,23 +12,31 @@ so ein heimlichem Weihnachtswächter
 
 ## *Die Legende von Beutolomäus*
 
-Vor langer Zeit war Beutolomäus der erste Geschenkesack, den der Ur-Weihnachtsmann erschuf. Nicht einfach ein Sack – sondern ein **magisches Gefäß**, das Freude, Wünsche und Erinnerungen speichern konnte. Doch mit den Jahrhunderten wurde er immer voller… nicht nur mit Geschenken, sondern auch mit **Emotionen, Geheimnissen und verlorenen Wünschen**.
+Vor langer Zeit war Beutolomäus der erste Geschenkesack, den der Ur-Weihnachtsmann erschuf. Nicht einfach ein Sack, sondern ein magisches Gefäß, das Freude, Wünsche und Erinnerungen speichern konnte. VON ALLEN.
+Doch mit den Jahrhunderten wurde er immer voller…
+nicht nur mit Geschenken, sondern auch mit Emotionen, Geheimnissen und verlorenen Wünschen. Traurig
 
-Irgendwann erwachte er.
+Irgendwann erwachte er. (WOAAAH)
 
-Er bekam Augen, Arme, Beine – und einen eigenen Willen.  
-Er half dem Weihnachtsmann jahrhundertelang, doch irgendwann wurde er **vergessen**, ersetzt durch modernere, effizientere Säcke. Der Weihnachtsmann meinte es nicht böse – aber Beutolomäus fühlte sich verraten.
+Er bekam einen eigenen Willen.  
+Er half dem Weihnachtsmann jahrhundertelang, doch irgendwann wurde er vergessen* ersetzt durch modernere, effizientere Säcke. 
+(Scheiß Kapitalismus, grrr!)
+Der Weihnachtsmann meinte es nicht böse,
+aber Beutolomäus fühlte sich verraten.
+(Rede Justus, rede)
 
 Er verließ den Nordpol.
 
-Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenhaft – und versucht herauszufinden, ob er mehr ist als nur ein Sack.
+Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenhaft und versucht herauszufinden, ob er mehr ist als nur ein Sack.
+
+(Crazy Redemption Arc)
 
 ---
 
-## 🎭 Persönlichkeit
+# Persoanlitiät
 
-- **Überraschend schleichend** – Stoff raschelt nicht, wenn er es nicht will.  
-- **Überfürsorglich** – er hat eine Art „Geschenkeinstinkt“ und will Leuten geben, was sie brauchen… auch wenn sie es nicht wollen.  
+- Überfürsorglich 
+	- er hat eine Art „Geschenkeinstinkt“ und will Leuten geben, was sie brauchen… auch wenn sie es nicht wollen.  
 - **Leicht beleidigt** – besonders wenn jemand ihn „Tasche“ nennt.  
 - **Magisch chaotisch** – manchmal zieht er Dinge aus sich heraus, die er gar nicht bewusst eingepackt hat.  
 - **Väterlich** – er hat viel von St. Nick gelernt, aber interpretiert es… kreativ.
