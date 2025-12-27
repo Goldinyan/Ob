@@ -108,6 +108,7 @@ PDT
 Parser
 Perl
 Python
+Persoanlitiät
 IHDR
 IDATx
 IC
@@ -197,6 +198,8 @@ Installation
 Interaktiv
 Info
 Installed
+Irgendwann
+Inventar
 rD
 rVS
 rZ
@@ -373,6 +376,7 @@ release
 root
 rust
 ruby
+rede
 Vs
 VO
 VJ
@@ -446,6 +450,9 @@ Vim
 Variable
 Variante
 Vergleichstabelle
+Vergessene
+Vor
+VON
 KPgM
 KO
 Krbm
@@ -536,6 +543,13 @@ Kultur
 Keeping
 Kernel
 KB
+Kapitalismus
+Kann
+Kämpfer
+Kleine
+Kontakt
+Kneipe
+Kopfkissen
 EG
 ER
 Ek
@@ -677,6 +691,10 @@ Extension
 External
 Enabled
 Encodings
+Erinnerungen
+Emotionen
+Erklärungen
+Errinnerungen
 cj
 cK
 cz
@@ -864,6 +882,7 @@ cmp
 clangd
 configs
 capabilities
+chaotisch
 pt
 pD
 ph
@@ -1045,6 +1064,7 @@ provider
 pbcopy
 perl
 python
+passen
 kF
 kXl
 kXlm
@@ -1143,6 +1163,7 @@ kam
 könnt
 knocked
 kitty
+kenne
 Zw
 Zy
 ZL
@@ -1268,6 +1289,11 @@ NIL
 Neovim
 Nvim
 Node
+Nordzipfel
+Nicht
+Nordpol
+NIMM
+Nick
 uR
 uN
 ug
@@ -1460,6 +1486,13 @@ WARNING
 WARN
 Watcher
 WASM
+Weihnachtswächter
+Weihnachtsmann
+Wünsche
+Wünschen
+WOAAAH
+Weihnachtsbaum
+Woher
 Cbc
 Cr
 Ck
@@ -1567,6 +1600,7 @@ Clients
 Configurations
 Clipboard
 Cellar
+Crazy
 LI
 LF
 LLN
@@ -1649,6 +1683,9 @@ LLDB
 Leftist
 Legend
 Log
+Legende
+Leuten
+Leicht
 qV
 qT
 qH
@@ -1901,6 +1938,13 @@ Skipped
 See
 Selected
 Settings
+Sack
+Säcke
+Seitdem
+Seile
+Süßigkeiten
+Schneebälle
+St
 zS
 zX
 zR
@@ -1955,6 +1999,9 @@ zc
 za
 zM
 zig
+zuschlägt
+zusammenrollen
+zurückgelassen
 OU
 OL
 Oq
@@ -2004,6 +2051,7 @@ Overflow
 Omi
 Opi
 Ofcourse
+Oder
 am
 ad
 afj
@@ -2270,6 +2318,8 @@ JavaScript
 Jahre
 JS
 Jul
+Jahrhunderten
+Justus
 FzF
 FK
 FG
@@ -2372,6 +2422,8 @@ Fokus
 Far
 Fox
 Features
+Freude
+Freunde
 vHwc
 vE
 vA
@@ -2475,6 +2527,11 @@ var
 vimdoc
 validate
 validator
+voller
+verlorenen
+verraten
+verließ
+vielen
 Aw
 ArX
 Ar
@@ -2626,6 +2683,9 @@ ARM
 ADVICE
 Active
 Attached
+ALLEN
+Arc
+Attribute
 MV
 MM
 Ms
@@ -2733,6 +2793,8 @@ Mach
 Mama
 Moving
 Mon
+Magisch
+Magischer
 hv
 hz
 have
@@ -2843,6 +2905,14 @@ hand
 healthcheck
 health
 homebrew
+heimlichem
+halb
+heldenhaft
+herauszufinden
+heraus
+hängen
+herausziehen
+herausfinden
 lI
 lt
 ls
@@ -2990,6 +3060,11 @@ log
 lowLevel
 loaded
 lib
+lol
+loyaler
+langer
+logischen
+lebt
 bM
 bS
 bs
@@ -3151,6 +3226,10 @@ buffer
 bin
 buffers
 base
+beseelter
+bekam
+böse
+beleidigt
 mm
 ms
 mO
@@ -3313,6 +3392,9 @@ markdown
 msg
 mac
 mixed
+magisches
+modernere
+meinte
 do
 dK
 dQ
@@ -3976,6 +4058,10 @@ signature
 snake
 servers
 setup
+streift
+schildern
+sehe
+seid
 XZ
 Xs
 XI
@@ -4145,6 +4231,7 @@ wanna
 warnings
 watching
 workspace
+wollen
 gv
 gu
 gP
@@ -4303,6 +4390,9 @@ gx
 goalposts
 generator
 gcc
+grrr
+gebracht
+gehasst
 nf
 nnvi
 nC
@@ -4402,6 +4492,8 @@ näher
 noise
 nvchad
 node
+neugierig
+nennt
 jt
 jW
 jz
@@ -4428,6 +4520,8 @@ jedoch
 jede
 jsregexp
 javascript
+jahrhundertelang
+jemand
 id
 in
 iB
@@ -4559,6 +4653,8 @@ inline
 init
 issues
 ipairs
+irgendwann
+irgendwo
 Gn
 Go
 Gs
@@ -4658,6 +4754,12 @@ GEF
 Geladene
 Guide
 Ground
+Geschenkesack
+Gefäß
+Geschenken
+Geheimnissen
+Geschenkeinstinkt
+Grinch
 fW
 fvB
 fnrA
@@ -4819,6 +4921,8 @@ facts
 filteres
 font
 fonts
+fühlte
+früher
 Hn
 HnZ
 HV
@@ -5075,6 +5179,7 @@ typescript
 traceback
 truecolor
 tsserver
+thematisch
 UU
 Uo
 Uc
@@ -5129,6 +5234,7 @@ UTF
 Usually
 Usage
 Users
+Ur
 DC
 DK
 DN
@@ -5238,6 +5344,8 @@ Disassembly
 Debating
 Desktop
 Disabled
+Dinge
+DAS
 eC
 eD
 eL
@@ -5452,6 +5560,14 @@ empty
 encodings
 einstellen
 eslint
+erschuf
+erwachte
+ersetzt
+effizientere
+eingepackt
+erwartet
+erster
+entwischt
 BP
 Bz
 BVb
@@ -5553,6 +5669,10 @@ Befehle
 Breakpoint
 Beenden
 Byteweise
+BACKSTORY
+Beutolomäus
+BOOM
+BALD
 TN
 Tn
 TV
@@ -5656,6 +5776,10 @@ TSInstall
 TSUpdate
 Tools
 Treesitter
+Trickster
+Traurig
+Tasche
+Taschenlampe
 üb
 über
 überführt
@@ -5759,6 +5883,8 @@ RELEASE
 Runtime
 Root
 Ruby
+Redemption
+Rudolf
 Überblick
 Überlieferung
 Übersicht
@@ -5766,6 +5892,8 @@ Ruby
 Überleben
 Überschreiben
 Übersichtstabelle
+Überfürsorglich
+Überraschender
 Äußere
 Ähnlich
 Äquivalent

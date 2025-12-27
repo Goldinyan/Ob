@@ -86,3 +86,11 @@ Oder ich habe ihm früher Geschenke gebracht, die er gehasst hat, da ich selbst 
 
 ## Rudolf kennt mich aus der Kneipe
 Ich bin ein Sack und Er hat mich mal als Kopfkissen benutzt, seid dem sind wir Freunde.
+
+
+
+
+
+SKAdi
+
+rechte hand des weinachtsmann 
