@@ -99,4 +99,10 @@ ich wurde rausgeworfen im klein gedruckten
 erst 1 dann 2 fabriken dann alle bis auf eine
 wm ist eingespeert im letzten büro,
 typ will alles fabriken und used ki 
-Ein Person
+wir müssen die retten
+
+
+Fähigkeit ist tiefeste Wünsche und so zu bekommen von jemanden 
+5x machen
+oberflächlich
+und dann bei tiefer empathie wurf
