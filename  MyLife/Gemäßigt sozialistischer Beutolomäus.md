@@ -112,7 +112,7 @@ Attribute:
 
 
 
-Wunden : 4 
+Wunden : 4 - 1
 
 empathie = 9
 Konzentration = 2
