@@ -128,8 +128,4 @@ Ich löse den Knoten in deinem Inneren und das, was du verdrängt hast, wird wie
 
 Halt still… ich wühle kurz in deiner Seele. Keine Sorge, ich sortiere alles wieder ein
 
-Komm ich halte deine Erinnerungen ganz vorsichtig fest, damit sie nicht wieder entgleiten.
-
-Deine Wahrheit schläft nicht. Ich wecke sie.
-
 Keine Panik, ich sortiere deine Erinnerungen nach Farbe.
