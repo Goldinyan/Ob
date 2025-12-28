@@ -111,6 +111,7 @@ und dann bei tiefer empathie wurf
 Attribute:
 
 
+
 Wunden : 4 
 empathie = 8
 Konzentration = 2
