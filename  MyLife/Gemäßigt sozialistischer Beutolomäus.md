@@ -113,12 +113,13 @@ Attribute:
 
 
 Wunden : 4 
-empathie = 8
+
+empathie = 9
 Konzentration = 2
 Fernkampf = 1
 Stärke = 4
 Nahkampf = 4
-Geschick = 3
+Geschick = 2
 
 
 FORM:
