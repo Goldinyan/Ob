@@ -129,3 +129,10 @@ Ich löse den Knoten in deinem Inneren und das, was du verdrängt hast, wird wie
 Halt still… ich wühle kurz in deiner Seele. Keine Sorge, ich sortiere alles wieder ein
 
 Keine Panik, ich sortiere deine Erinnerungen nach Farbe.
+
+
+
+gian : grinch 
+Kevin: WM Jack frost
+Lukas : Rudolf Zwerg
+Henning: Leopold der mit der AG
