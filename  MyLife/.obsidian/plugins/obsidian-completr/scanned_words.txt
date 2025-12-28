@@ -377,6 +377,8 @@ root
 rust
 ruby
 rede
+rechte
+rausgeworfen
 Vs
 VO
 VJ
@@ -1164,6 +1166,7 @@ könnt
 knocked
 kitty
 kenne
+klein
 Zw
 Zy
 ZL
@@ -1945,6 +1948,7 @@ Seile
 Süßigkeiten
 Schneebälle
 St
+SKAdi
 zS
 zX
 zR
@@ -2424,6 +2428,7 @@ Fox
 Features
 Freude
 Freunde
+Fähigkeit
 vHwc
 vE
 vA
@@ -3230,6 +3235,7 @@ beseelter
 bekam
 böse
 beleidigt
+büro
 mm
 ms
 mO
@@ -3395,6 +3401,7 @@ mixed
 magisches
 modernere
 meinte
+müssen
 do
 dK
 dQ
@@ -3697,6 +3704,7 @@ output
 opcodes
 objdump
 opt
+oberflächlich
 ss
 sq
 sE
@@ -4232,6 +4240,9 @@ warnings
 watching
 workspace
 wollen
+weinachtsmann
+wm
+wurf
 gv
 gu
 gP
@@ -4393,6 +4404,8 @@ gcc
 grrr
 gebracht
 gehasst
+gestresst
+gedruckten
 nf
 nnvi
 nC
@@ -4522,6 +4535,7 @@ jsregexp
 javascript
 jahrhundertelang
 jemand
+jemanden
 id
 in
 iB
@@ -4923,6 +4937,7 @@ font
 fonts
 fühlte
 früher
+fabriken
 Hn
 HnZ
 HV
@@ -5180,6 +5195,8 @@ traceback
 truecolor
 tsserver
 thematisch
+typ
+tiefeste
 UU
 Uo
 Uc
@@ -5568,6 +5585,8 @@ eingepackt
 erwartet
 erster
 entwischt
+eingespeert
+empathie
 BP
 Bz
 BVb
